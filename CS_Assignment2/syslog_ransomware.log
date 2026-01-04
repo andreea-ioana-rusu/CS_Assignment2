@@ -1,0 +1,81 @@
+import pypandoc
+
+# Log Analysis with Cybersecurity Insights
+========================================
+
+Python Script
+--------------
+
+```python
+import re
+
+# Path to the log file
+log_file = "syslog_ransomware.txt"
+
+# Dictionaries for counting and storing information
+failed_logins = {}
+suspicious_events = []
+
+# Event type patterns for ransomware indicators
+patterns = {
+    "SUCCESSFUL_LOGIN": r"Accepted password for root",
+    "FILE_DOWNLOAD": r"wget|curl",
+    "PERMISSION_CHANGE": r"chmod \+x",
+    "SCRIPT_EXECUTION": r"\.\/.*\.sh",
+    "ENCRYPTION_ACTIVITY": r"encryptor|\.locked",
+    "PERSISTENCE_MECHANISM": r"CRON|@reboot|/etc/cron"
+}
+
+total_lines = 0
+failed_login_count = 0
+
+# Read and analyze the log file
+with open(log_file, "r", encoding="utf-8") as file:
+    for line in file:
+        total_lines += 1
+
+        # --- (A) Detect Failed Login Attempts ---
+        if "Failed password" in line:
+            failed_login_count += 1
+            ip_match = re.search(r"from ([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)", line)
+            if ip_match:
+                ip = ip_match.group(1)
+                failed_logins[ip] = failed_logins.get(ip, 0) + 1
+
+        # --- (B) Detect Suspicious Events ---
+        for event_type, pattern in patterns.items():
+            if re.search(pattern, line):
+                timestamp = " ".join(line.split()[:3])
+                suspicious_events.append((timestamp, event_type, line.strip()))
+                break
+
+# Identify brute force IPs
+brute_force_ips = {ip: count for ip, count in failed_logins.items() if count > 5}
+
+# --- Output Results ---
+print("Suspicious IPs with failed logins:")
+for ip, count in failed_logins.items():
+    status = " - Possible Brute Force Attack" if count > 5 else ""
+    print(f"{ip} - {count} failed login attempts{status}")
+
+print("\nSuspicious Events Summary:")
+print("---------------------------")
+for event in suspicious_events:
+    print(f"{event[0]} - {event[1]} - {event[2]}")
+
+print("\nLog Analysis Summary")
+print("-------------------------------")
+print(f"Total log entries analyzed: {total_lines}")
+print(f"Failed SSH login attempts: {failed_login_count}")
+print(f"IPs flagged for possible brute force attacks: {len(brute_force_ips)}")
+for ip in brute_force_ips:
+    print(ip)
+print(f"Suspicious ransomware-related events detected: {len(suspicious_events)}")
+
+# Count each type of ransomware-related event
+event_counts = {}
+for _, event_type, _ in suspicious_events:
+    event_counts[event_type] = event_counts.get(event_type, 0) + 1
+
+for event_type, count in event_counts.items():
+    print(f"{count} {event_type.replace('_', ' ').lower()}")

